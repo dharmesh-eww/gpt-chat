@@ -1,1 +1,1052 @@
-{}
+[
+  {
+    "question": "Which option correctly answers: Which organization is primarily responsible for international peace and security through its Security Council?",
+    "options": [
+      {
+        "text": "United Nations",
+        "is_answer": true
+      },
+      {
+        "text": "World Trade Organization",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": false
+      },
+      {
+        "text": "World Bank",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which technology is widely associated with generative text and image systems?",
+    "options": [
+      {
+        "text": "analog television",
+        "is_answer": false
+      },
+      {
+        "text": "mechanical typewriter",
+        "is_answer": false
+      },
+      {
+        "text": "steam engine",
+        "is_answer": false
+      },
+      {
+        "text": "artificial intelligence",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which global agreement addresses climate change and was adopted in 2015?",
+    "options": [
+      {
+        "text": "Montreal Protocol",
+        "is_answer": false
+      },
+      {
+        "text": "Rome Statute",
+        "is_answer": false
+      },
+      {
+        "text": "Paris Agreement",
+        "is_answer": true
+      },
+      {
+        "text": "Geneva Convention",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which field studies the design and use of robots?",
+    "options": [
+      {
+        "text": "astronomy",
+        "is_answer": false
+      },
+      {
+        "text": "robotics",
+        "is_answer": true
+      },
+      {
+        "text": "geology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which institution is a major global public-health agency?",
+    "options": [
+      {
+        "text": "World Health Organization",
+        "is_answer": true
+      },
+      {
+        "text": "World Postal Union",
+        "is_answer": false
+      },
+      {
+        "text": "International Court of Justice",
+        "is_answer": false
+      },
+      {
+        "text": "World Customs Organization",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which technology is central to many modern mobile payments?",
+    "options": [
+      {
+        "text": "typewriters",
+        "is_answer": false
+      },
+      {
+        "text": "film reels",
+        "is_answer": false
+      },
+      {
+        "text": "analog radio only",
+        "is_answer": false
+      },
+      {
+        "text": "digital networks",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which area focuses on reducing greenhouse-gas emissions and adapting to climate impacts?",
+    "options": [
+      {
+        "text": "cartography",
+        "is_answer": false
+      },
+      {
+        "text": "archaeology",
+        "is_answer": false
+      },
+      {
+        "text": "climate policy",
+        "is_answer": true
+      },
+      {
+        "text": "typography",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which organization publishes the World Economic Outlook?",
+    "options": [
+      {
+        "text": "FIFA",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": true
+      },
+      {
+        "text": "UNICEF",
+        "is_answer": false
+      },
+      {
+        "text": "UNESCO",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: What does cybersecurity primarily protect?",
+    "options": [
+      {
+        "text": "digital systems and information",
+        "is_answer": true
+      },
+      {
+        "text": "only roads",
+        "is_answer": false
+      },
+      {
+        "text": "only crops",
+        "is_answer": false
+      },
+      {
+        "text": "only buildings",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which option correctly answers: Which area combines computing with biological data and research?",
+    "options": [
+      {
+        "text": "astrology",
+        "is_answer": false
+      },
+      {
+        "text": "calligraphy",
+        "is_answer": false
+      },
+      {
+        "text": "architecture",
+        "is_answer": false
+      },
+      {
+        "text": "bioinformatics",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which organization is primarily responsible for international peace and security through its Security Council?",
+    "options": [
+      {
+        "text": "International Monetary Fund",
+        "is_answer": false
+      },
+      {
+        "text": "World Bank",
+        "is_answer": false
+      },
+      {
+        "text": "United Nations",
+        "is_answer": true
+      },
+      {
+        "text": "World Trade Organization",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which technology is widely associated with generative text and image systems?",
+    "options": [
+      {
+        "text": "steam engine",
+        "is_answer": false
+      },
+      {
+        "text": "artificial intelligence",
+        "is_answer": true
+      },
+      {
+        "text": "analog television",
+        "is_answer": false
+      },
+      {
+        "text": "mechanical typewriter",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which global agreement addresses climate change and was adopted in 2015?",
+    "options": [
+      {
+        "text": "Paris Agreement",
+        "is_answer": true
+      },
+      {
+        "text": "Geneva Convention",
+        "is_answer": false
+      },
+      {
+        "text": "Montreal Protocol",
+        "is_answer": false
+      },
+      {
+        "text": "Rome Statute",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which field studies the design and use of robots?",
+    "options": [
+      {
+        "text": "geology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      },
+      {
+        "text": "astronomy",
+        "is_answer": false
+      },
+      {
+        "text": "robotics",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which institution is a major global public-health agency?",
+    "options": [
+      {
+        "text": "International Court of Justice",
+        "is_answer": false
+      },
+      {
+        "text": "World Customs Organization",
+        "is_answer": false
+      },
+      {
+        "text": "World Health Organization",
+        "is_answer": true
+      },
+      {
+        "text": "World Postal Union",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which technology is central to many modern mobile payments?",
+    "options": [
+      {
+        "text": "analog radio only",
+        "is_answer": false
+      },
+      {
+        "text": "digital networks",
+        "is_answer": true
+      },
+      {
+        "text": "typewriters",
+        "is_answer": false
+      },
+      {
+        "text": "film reels",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which area focuses on reducing greenhouse-gas emissions and adapting to climate impacts?",
+    "options": [
+      {
+        "text": "climate policy",
+        "is_answer": true
+      },
+      {
+        "text": "typography",
+        "is_answer": false
+      },
+      {
+        "text": "cartography",
+        "is_answer": false
+      },
+      {
+        "text": "archaeology",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which organization publishes the World Economic Outlook?",
+    "options": [
+      {
+        "text": "UNICEF",
+        "is_answer": false
+      },
+      {
+        "text": "UNESCO",
+        "is_answer": false
+      },
+      {
+        "text": "FIFA",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: What does cybersecurity primarily protect?",
+    "options": [
+      {
+        "text": "only crops",
+        "is_answer": false
+      },
+      {
+        "text": "only buildings",
+        "is_answer": false
+      },
+      {
+        "text": "digital systems and information",
+        "is_answer": true
+      },
+      {
+        "text": "only roads",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Select the correct answer: Which area combines computing with biological data and research?",
+    "options": [
+      {
+        "text": "architecture",
+        "is_answer": false
+      },
+      {
+        "text": "bioinformatics",
+        "is_answer": true
+      },
+      {
+        "text": "astrology",
+        "is_answer": false
+      },
+      {
+        "text": "calligraphy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which organization is primarily responsible for international peace and security through its Security Council?",
+    "options": [
+      {
+        "text": "United Nations",
+        "is_answer": true
+      },
+      {
+        "text": "World Trade Organization",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": false
+      },
+      {
+        "text": "World Bank",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which technology is widely associated with generative text and image systems?",
+    "options": [
+      {
+        "text": "analog television",
+        "is_answer": false
+      },
+      {
+        "text": "mechanical typewriter",
+        "is_answer": false
+      },
+      {
+        "text": "steam engine",
+        "is_answer": false
+      },
+      {
+        "text": "artificial intelligence",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which global agreement addresses climate change and was adopted in 2015?",
+    "options": [
+      {
+        "text": "Montreal Protocol",
+        "is_answer": false
+      },
+      {
+        "text": "Rome Statute",
+        "is_answer": false
+      },
+      {
+        "text": "Paris Agreement",
+        "is_answer": true
+      },
+      {
+        "text": "Geneva Convention",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which field studies the design and use of robots?",
+    "options": [
+      {
+        "text": "astronomy",
+        "is_answer": false
+      },
+      {
+        "text": "robotics",
+        "is_answer": true
+      },
+      {
+        "text": "geology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which institution is a major global public-health agency?",
+    "options": [
+      {
+        "text": "World Health Organization",
+        "is_answer": true
+      },
+      {
+        "text": "World Postal Union",
+        "is_answer": false
+      },
+      {
+        "text": "International Court of Justice",
+        "is_answer": false
+      },
+      {
+        "text": "World Customs Organization",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which technology is central to many modern mobile payments?",
+    "options": [
+      {
+        "text": "typewriters",
+        "is_answer": false
+      },
+      {
+        "text": "film reels",
+        "is_answer": false
+      },
+      {
+        "text": "analog radio only",
+        "is_answer": false
+      },
+      {
+        "text": "digital networks",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which area focuses on reducing greenhouse-gas emissions and adapting to climate impacts?",
+    "options": [
+      {
+        "text": "cartography",
+        "is_answer": false
+      },
+      {
+        "text": "archaeology",
+        "is_answer": false
+      },
+      {
+        "text": "climate policy",
+        "is_answer": true
+      },
+      {
+        "text": "typography",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which organization publishes the World Economic Outlook?",
+    "options": [
+      {
+        "text": "FIFA",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": true
+      },
+      {
+        "text": "UNICEF",
+        "is_answer": false
+      },
+      {
+        "text": "UNESCO",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: What does cybersecurity primarily protect?",
+    "options": [
+      {
+        "text": "digital systems and information",
+        "is_answer": true
+      },
+      {
+        "text": "only roads",
+        "is_answer": false
+      },
+      {
+        "text": "only crops",
+        "is_answer": false
+      },
+      {
+        "text": "only buildings",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct answer to: Which area combines computing with biological data and research?",
+    "options": [
+      {
+        "text": "astrology",
+        "is_answer": false
+      },
+      {
+        "text": "calligraphy",
+        "is_answer": false
+      },
+      {
+        "text": "architecture",
+        "is_answer": false
+      },
+      {
+        "text": "bioinformatics",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which organization is primarily responsible for international peace and security through its Security Council?",
+    "options": [
+      {
+        "text": "International Monetary Fund",
+        "is_answer": false
+      },
+      {
+        "text": "World Bank",
+        "is_answer": false
+      },
+      {
+        "text": "United Nations",
+        "is_answer": true
+      },
+      {
+        "text": "World Trade Organization",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which technology is widely associated with generative text and image systems?",
+    "options": [
+      {
+        "text": "steam engine",
+        "is_answer": false
+      },
+      {
+        "text": "artificial intelligence",
+        "is_answer": true
+      },
+      {
+        "text": "analog television",
+        "is_answer": false
+      },
+      {
+        "text": "mechanical typewriter",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which global agreement addresses climate change and was adopted in 2015?",
+    "options": [
+      {
+        "text": "Paris Agreement",
+        "is_answer": true
+      },
+      {
+        "text": "Geneva Convention",
+        "is_answer": false
+      },
+      {
+        "text": "Montreal Protocol",
+        "is_answer": false
+      },
+      {
+        "text": "Rome Statute",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which field studies the design and use of robots?",
+    "options": [
+      {
+        "text": "geology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      },
+      {
+        "text": "astronomy",
+        "is_answer": false
+      },
+      {
+        "text": "robotics",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which institution is a major global public-health agency?",
+    "options": [
+      {
+        "text": "International Court of Justice",
+        "is_answer": false
+      },
+      {
+        "text": "World Customs Organization",
+        "is_answer": false
+      },
+      {
+        "text": "World Health Organization",
+        "is_answer": true
+      },
+      {
+        "text": "World Postal Union",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which technology is central to many modern mobile payments?",
+    "options": [
+      {
+        "text": "analog radio only",
+        "is_answer": false
+      },
+      {
+        "text": "digital networks",
+        "is_answer": true
+      },
+      {
+        "text": "typewriters",
+        "is_answer": false
+      },
+      {
+        "text": "film reels",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which area focuses on reducing greenhouse-gas emissions and adapting to climate impacts?",
+    "options": [
+      {
+        "text": "climate policy",
+        "is_answer": true
+      },
+      {
+        "text": "typography",
+        "is_answer": false
+      },
+      {
+        "text": "cartography",
+        "is_answer": false
+      },
+      {
+        "text": "archaeology",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which organization publishes the World Economic Outlook?",
+    "options": [
+      {
+        "text": "UNICEF",
+        "is_answer": false
+      },
+      {
+        "text": "UNESCO",
+        "is_answer": false
+      },
+      {
+        "text": "FIFA",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: What does cybersecurity primarily protect?",
+    "options": [
+      {
+        "text": "only crops",
+        "is_answer": false
+      },
+      {
+        "text": "only buildings",
+        "is_answer": false
+      },
+      {
+        "text": "digital systems and information",
+        "is_answer": true
+      },
+      {
+        "text": "only roads",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the right option for: Which area combines computing with biological data and research?",
+    "options": [
+      {
+        "text": "architecture",
+        "is_answer": false
+      },
+      {
+        "text": "bioinformatics",
+        "is_answer": true
+      },
+      {
+        "text": "astrology",
+        "is_answer": false
+      },
+      {
+        "text": "calligraphy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which organization is primarily responsible for international peace and security through its Security Council?",
+    "options": [
+      {
+        "text": "United Nations",
+        "is_answer": true
+      },
+      {
+        "text": "World Trade Organization",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": false
+      },
+      {
+        "text": "World Bank",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which technology is widely associated with generative text and image systems?",
+    "options": [
+      {
+        "text": "analog television",
+        "is_answer": false
+      },
+      {
+        "text": "mechanical typewriter",
+        "is_answer": false
+      },
+      {
+        "text": "steam engine",
+        "is_answer": false
+      },
+      {
+        "text": "artificial intelligence",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which global agreement addresses climate change and was adopted in 2015?",
+    "options": [
+      {
+        "text": "Montreal Protocol",
+        "is_answer": false
+      },
+      {
+        "text": "Rome Statute",
+        "is_answer": false
+      },
+      {
+        "text": "Paris Agreement",
+        "is_answer": true
+      },
+      {
+        "text": "Geneva Convention",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which field studies the design and use of robots?",
+    "options": [
+      {
+        "text": "astronomy",
+        "is_answer": false
+      },
+      {
+        "text": "robotics",
+        "is_answer": true
+      },
+      {
+        "text": "geology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which institution is a major global public-health agency?",
+    "options": [
+      {
+        "text": "World Health Organization",
+        "is_answer": true
+      },
+      {
+        "text": "World Postal Union",
+        "is_answer": false
+      },
+      {
+        "text": "International Court of Justice",
+        "is_answer": false
+      },
+      {
+        "text": "World Customs Organization",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which technology is central to many modern mobile payments?",
+    "options": [
+      {
+        "text": "typewriters",
+        "is_answer": false
+      },
+      {
+        "text": "film reels",
+        "is_answer": false
+      },
+      {
+        "text": "analog radio only",
+        "is_answer": false
+      },
+      {
+        "text": "digital networks",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which area focuses on reducing greenhouse-gas emissions and adapting to climate impacts?",
+    "options": [
+      {
+        "text": "cartography",
+        "is_answer": false
+      },
+      {
+        "text": "archaeology",
+        "is_answer": false
+      },
+      {
+        "text": "climate policy",
+        "is_answer": true
+      },
+      {
+        "text": "typography",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which organization publishes the World Economic Outlook?",
+    "options": [
+      {
+        "text": "FIFA",
+        "is_answer": false
+      },
+      {
+        "text": "International Monetary Fund",
+        "is_answer": true
+      },
+      {
+        "text": "UNICEF",
+        "is_answer": false
+      },
+      {
+        "text": "UNESCO",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: What does cybersecurity primarily protect?",
+    "options": [
+      {
+        "text": "digital systems and information",
+        "is_answer": true
+      },
+      {
+        "text": "only roads",
+        "is_answer": false
+      },
+      {
+        "text": "only crops",
+        "is_answer": false
+      },
+      {
+        "text": "only buildings",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer is correct for: Which area combines computing with biological data and research?",
+    "options": [
+      {
+        "text": "astrology",
+        "is_answer": false
+      },
+      {
+        "text": "calligraphy",
+        "is_answer": false
+      },
+      {
+        "text": "architecture",
+        "is_answer": false
+      },
+      {
+        "text": "bioinformatics",
+        "is_answer": true
+      }
+    ]
+  }
+]
