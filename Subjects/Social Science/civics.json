@@ -1048,5 +1048,1055 @@
         "is_answer": true
       }
     ]
+  },
+  {
+    "question": "Quick review: Which option correctly answers: Who studies events of the past?",
+    "options": [
+      {
+        "text": "chemist",
+        "is_answer": false
+      },
+      {
+        "text": "astronomer",
+        "is_answer": false
+      },
+      {
+        "text": "botanist",
+        "is_answer": false
+      },
+      {
+        "text": "historian",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Knowledge check: Which option correctly answers: What is the largest continent?",
+    "options": [
+      {
+        "text": "Australia",
+        "is_answer": false
+      },
+      {
+        "text": "Asia",
+        "is_answer": true
+      },
+      {
+        "text": "Africa",
+        "is_answer": false
+      },
+      {
+        "text": "Europe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Test yourself: Which option correctly answers: What does a constitution generally provide?",
+    "options": [
+      {
+        "text": "a weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "a trade invoice",
+        "is_answer": false
+      },
+      {
+        "text": "a map legend",
+        "is_answer": false
+      },
+      {
+        "text": "a framework of government",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Recall check: Which option correctly answers: What is the study of Earth's physical features and places called?",
+    "options": [
+      {
+        "text": "physics",
+        "is_answer": false
+      },
+      {
+        "text": "geography",
+        "is_answer": true
+      },
+      {
+        "text": "biology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice question: Which option correctly answers: What is democracy based on?",
+    "options": [
+      {
+        "text": "rule by one monarch only",
+        "is_answer": false
+      },
+      {
+        "text": "military ownership",
+        "is_answer": false
+      },
+      {
+        "text": "inheritance of land",
+        "is_answer": false
+      },
+      {
+        "text": "participation of citizens",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz challenge: Which option correctly answers: What is a map scale used for?",
+    "options": [
+      {
+        "text": "naming oceans",
+        "is_answer": false
+      },
+      {
+        "text": "relating map distance to real distance",
+        "is_answer": true
+      },
+      {
+        "text": "showing population only",
+        "is_answer": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Review item: Which option correctly answers: What is inflation?",
+    "options": [
+      {
+        "text": "a fall in rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "a decrease in population",
+        "is_answer": false
+      },
+      {
+        "text": "a general rise in prices",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study check: Which option correctly answers: What is a primary source in history?",
+    "options": [
+      {
+        "text": "a later opinion",
+        "is_answer": false
+      },
+      {
+        "text": "evidence from the time being studied",
+        "is_answer": true
+      },
+      {
+        "text": "a modern textbook summary",
+        "is_answer": false
+      },
+      {
+        "text": "a fictional story",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Concept check: Which option correctly answers: What is an economy concerned with?",
+    "options": [
+      {
+        "text": "only weather",
+        "is_answer": false
+      },
+      {
+        "text": "only elections",
+        "is_answer": false
+      },
+      {
+        "text": "only geography",
+        "is_answer": false
+      },
+      {
+        "text": "production and use of goods and services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Revision question: Which option correctly answers: What is a citizen?",
+    "options": [
+      {
+        "text": "only a voter",
+        "is_answer": false
+      },
+      {
+        "text": "a legally recognized member of a state or country",
+        "is_answer": true
+      },
+      {
+        "text": "any tourist",
+        "is_answer": false
+      },
+      {
+        "text": "only a government employee",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Warm-up question: Select the correct answer: Who studies events of the past?",
+    "options": [
+      {
+        "text": "chemist",
+        "is_answer": false
+      },
+      {
+        "text": "astronomer",
+        "is_answer": false
+      },
+      {
+        "text": "botanist",
+        "is_answer": false
+      },
+      {
+        "text": "historian",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Self-test: Select the correct answer: What is the largest continent?",
+    "options": [
+      {
+        "text": "Australia",
+        "is_answer": false
+      },
+      {
+        "text": "Asia",
+        "is_answer": true
+      },
+      {
+        "text": "Africa",
+        "is_answer": false
+      },
+      {
+        "text": "Europe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic check: Select the correct answer: What does a constitution generally provide?",
+    "options": [
+      {
+        "text": "a weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "a trade invoice",
+        "is_answer": false
+      },
+      {
+        "text": "a map legend",
+        "is_answer": false
+      },
+      {
+        "text": "a framework of government",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fast quiz: Select the correct answer: What is the study of Earth's physical features and places called?",
+    "options": [
+      {
+        "text": "physics",
+        "is_answer": false
+      },
+      {
+        "text": "geography",
+        "is_answer": true
+      },
+      {
+        "text": "biology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning check: Select the correct answer: What is democracy based on?",
+    "options": [
+      {
+        "text": "rule by one monarch only",
+        "is_answer": false
+      },
+      {
+        "text": "military ownership",
+        "is_answer": false
+      },
+      {
+        "text": "inheritance of land",
+        "is_answer": false
+      },
+      {
+        "text": "participation of citizens",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice check: Select the correct answer: What is a map scale used for?",
+    "options": [
+      {
+        "text": "naming oceans",
+        "is_answer": false
+      },
+      {
+        "text": "relating map distance to real distance",
+        "is_answer": true
+      },
+      {
+        "text": "showing population only",
+        "is_answer": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Exam-style review: Select the correct answer: What is inflation?",
+    "options": [
+      {
+        "text": "a fall in rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "a decrease in population",
+        "is_answer": false
+      },
+      {
+        "text": "a general rise in prices",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Core concept check: Select the correct answer: What is a primary source in history?",
+    "options": [
+      {
+        "text": "a later opinion",
+        "is_answer": false
+      },
+      {
+        "text": "evidence from the time being studied",
+        "is_answer": true
+      },
+      {
+        "text": "a modern textbook summary",
+        "is_answer": false
+      },
+      {
+        "text": "a fictional story",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Quick quiz: Select the correct answer: What is an economy concerned with?",
+    "options": [
+      {
+        "text": "only weather",
+        "is_answer": false
+      },
+      {
+        "text": "only elections",
+        "is_answer": false
+      },
+      {
+        "text": "only geography",
+        "is_answer": false
+      },
+      {
+        "text": "production and use of goods and services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Memory check: Select the correct answer: What is a citizen?",
+    "options": [
+      {
+        "text": "only a voter",
+        "is_answer": false
+      },
+      {
+        "text": "a legally recognized member of a state or country",
+        "is_answer": true
+      },
+      {
+        "text": "any tourist",
+        "is_answer": false
+      },
+      {
+        "text": "only a government employee",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Assessment item: What is the correct answer to: Who studies events of the past?",
+    "options": [
+      {
+        "text": "chemist",
+        "is_answer": false
+      },
+      {
+        "text": "astronomer",
+        "is_answer": false
+      },
+      {
+        "text": "botanist",
+        "is_answer": false
+      },
+      {
+        "text": "historian",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study question: What is the correct answer to: What is the largest continent?",
+    "options": [
+      {
+        "text": "Australia",
+        "is_answer": false
+      },
+      {
+        "text": "Asia",
+        "is_answer": true
+      },
+      {
+        "text": "Africa",
+        "is_answer": false
+      },
+      {
+        "text": "Europe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Challenge question: What is the correct answer to: What does a constitution generally provide?",
+    "options": [
+      {
+        "text": "a weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "a trade invoice",
+        "is_answer": false
+      },
+      {
+        "text": "a map legend",
+        "is_answer": false
+      },
+      {
+        "text": "a framework of government",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review challenge: What is the correct answer to: What is the study of Earth's physical features and places called?",
+    "options": [
+      {
+        "text": "physics",
+        "is_answer": false
+      },
+      {
+        "text": "geography",
+        "is_answer": true
+      },
+      {
+        "text": "biology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge test: What is the correct answer to: What is democracy based on?",
+    "options": [
+      {
+        "text": "rule by one monarch only",
+        "is_answer": false
+      },
+      {
+        "text": "military ownership",
+        "is_answer": false
+      },
+      {
+        "text": "inheritance of land",
+        "is_answer": false
+      },
+      {
+        "text": "participation of citizens",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept review: What is the correct answer to: What is a map scale used for?",
+    "options": [
+      {
+        "text": "naming oceans",
+        "is_answer": false
+      },
+      {
+        "text": "relating map distance to real distance",
+        "is_answer": true
+      },
+      {
+        "text": "showing population only",
+        "is_answer": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic review: What is the correct answer to: What is inflation?",
+    "options": [
+      {
+        "text": "a fall in rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "a decrease in population",
+        "is_answer": false
+      },
+      {
+        "text": "a general rise in prices",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice test: What is the correct answer to: What is a primary source in history?",
+    "options": [
+      {
+        "text": "a later opinion",
+        "is_answer": false
+      },
+      {
+        "text": "evidence from the time being studied",
+        "is_answer": true
+      },
+      {
+        "text": "a modern textbook summary",
+        "is_answer": false
+      },
+      {
+        "text": "a fictional story",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Recall question: What is the correct answer to: What is an economy concerned with?",
+    "options": [
+      {
+        "text": "only weather",
+        "is_answer": false
+      },
+      {
+        "text": "only elections",
+        "is_answer": false
+      },
+      {
+        "text": "only geography",
+        "is_answer": false
+      },
+      {
+        "text": "production and use of goods and services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz review: What is the correct answer to: What is a citizen?",
+    "options": [
+      {
+        "text": "only a voter",
+        "is_answer": false
+      },
+      {
+        "text": "a legally recognized member of a state or country",
+        "is_answer": true
+      },
+      {
+        "text": "any tourist",
+        "is_answer": false
+      },
+      {
+        "text": "only a government employee",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Understanding check: Choose the right option for: Who studies events of the past?",
+    "options": [
+      {
+        "text": "chemist",
+        "is_answer": false
+      },
+      {
+        "text": "astronomer",
+        "is_answer": false
+      },
+      {
+        "text": "botanist",
+        "is_answer": false
+      },
+      {
+        "text": "historian",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fundamentals check: Choose the right option for: What is the largest continent?",
+    "options": [
+      {
+        "text": "Australia",
+        "is_answer": false
+      },
+      {
+        "text": "Asia",
+        "is_answer": true
+      },
+      {
+        "text": "Africa",
+        "is_answer": false
+      },
+      {
+        "text": "Europe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Subject check: Choose the right option for: What does a constitution generally provide?",
+    "options": [
+      {
+        "text": "a weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "a trade invoice",
+        "is_answer": false
+      },
+      {
+        "text": "a map legend",
+        "is_answer": false
+      },
+      {
+        "text": "a framework of government",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Focus question: Choose the right option for: What is the study of Earth's physical features and places called?",
+    "options": [
+      {
+        "text": "physics",
+        "is_answer": false
+      },
+      {
+        "text": "geography",
+        "is_answer": true
+      },
+      {
+        "text": "biology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning review: Choose the right option for: What is democracy based on?",
+    "options": [
+      {
+        "text": "rule by one monarch only",
+        "is_answer": false
+      },
+      {
+        "text": "military ownership",
+        "is_answer": false
+      },
+      {
+        "text": "inheritance of land",
+        "is_answer": false
+      },
+      {
+        "text": "participation of citizens",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Test item: Choose the right option for: What is a map scale used for?",
+    "options": [
+      {
+        "text": "naming oceans",
+        "is_answer": false
+      },
+      {
+        "text": "relating map distance to real distance",
+        "is_answer": true
+      },
+      {
+        "text": "showing population only",
+        "is_answer": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Revision check: Choose the right option for: What is inflation?",
+    "options": [
+      {
+        "text": "a fall in rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "a decrease in population",
+        "is_answer": false
+      },
+      {
+        "text": "a general rise in prices",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Skill check: Choose the right option for: What is a primary source in history?",
+    "options": [
+      {
+        "text": "a later opinion",
+        "is_answer": false
+      },
+      {
+        "text": "evidence from the time being studied",
+        "is_answer": true
+      },
+      {
+        "text": "a modern textbook summary",
+        "is_answer": false
+      },
+      {
+        "text": "a fictional story",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Mastery check: Choose the right option for: What is an economy concerned with?",
+    "options": [
+      {
+        "text": "only weather",
+        "is_answer": false
+      },
+      {
+        "text": "only elections",
+        "is_answer": false
+      },
+      {
+        "text": "only geography",
+        "is_answer": false
+      },
+      {
+        "text": "production and use of goods and services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Key idea check: Choose the right option for: What is a citizen?",
+    "options": [
+      {
+        "text": "only a voter",
+        "is_answer": false
+      },
+      {
+        "text": "a legally recognized member of a state or country",
+        "is_answer": true
+      },
+      {
+        "text": "any tourist",
+        "is_answer": false
+      },
+      {
+        "text": "only a government employee",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Short quiz: Which answer is correct for: Who studies events of the past?",
+    "options": [
+      {
+        "text": "chemist",
+        "is_answer": false
+      },
+      {
+        "text": "astronomer",
+        "is_answer": false
+      },
+      {
+        "text": "botanist",
+        "is_answer": false
+      },
+      {
+        "text": "historian",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Prep question: Which answer is correct for: What is the largest continent?",
+    "options": [
+      {
+        "text": "Australia",
+        "is_answer": false
+      },
+      {
+        "text": "Asia",
+        "is_answer": true
+      },
+      {
+        "text": "Africa",
+        "is_answer": false
+      },
+      {
+        "text": "Europe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Study challenge: Which answer is correct for: What does a constitution generally provide?",
+    "options": [
+      {
+        "text": "a weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "a trade invoice",
+        "is_answer": false
+      },
+      {
+        "text": "a map legend",
+        "is_answer": false
+      },
+      {
+        "text": "a framework of government",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review test: Which answer is correct for: What is the study of Earth's physical features and places called?",
+    "options": [
+      {
+        "text": "physics",
+        "is_answer": false
+      },
+      {
+        "text": "geography",
+        "is_answer": true
+      },
+      {
+        "text": "biology",
+        "is_answer": false
+      },
+      {
+        "text": "linguistics",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge review: Which answer is correct for: What is democracy based on?",
+    "options": [
+      {
+        "text": "rule by one monarch only",
+        "is_answer": false
+      },
+      {
+        "text": "military ownership",
+        "is_answer": false
+      },
+      {
+        "text": "inheritance of land",
+        "is_answer": false
+      },
+      {
+        "text": "participation of citizens",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept test: Which answer is correct for: What is a map scale used for?",
+    "options": [
+      {
+        "text": "naming oceans",
+        "is_answer": false
+      },
+      {
+        "text": "relating map distance to real distance",
+        "is_answer": true
+      },
+      {
+        "text": "showing population only",
+        "is_answer": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice item: Which answer is correct for: What is inflation?",
+    "options": [
+      {
+        "text": "a fall in rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "a decrease in population",
+        "is_answer": false
+      },
+      {
+        "text": "a general rise in prices",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Topic challenge: Which answer is correct for: What is a primary source in history?",
+    "options": [
+      {
+        "text": "a later opinion",
+        "is_answer": false
+      },
+      {
+        "text": "evidence from the time being studied",
+        "is_answer": true
+      },
+      {
+        "text": "a modern textbook summary",
+        "is_answer": false
+      },
+      {
+        "text": "a fictional story",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Final review: Which answer is correct for: What is an economy concerned with?",
+    "options": [
+      {
+        "text": "only weather",
+        "is_answer": false
+      },
+      {
+        "text": "only elections",
+        "is_answer": false
+      },
+      {
+        "text": "only geography",
+        "is_answer": false
+      },
+      {
+        "text": "production and use of goods and services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Checkpoint: Which answer is correct for: What is a citizen?",
+    "options": [
+      {
+        "text": "only a voter",
+        "is_answer": false
+      },
+      {
+        "text": "a legally recognized member of a state or country",
+        "is_answer": true
+      },
+      {
+        "text": "any tourist",
+        "is_answer": false
+      },
+      {
+        "text": "only a government employee",
+        "is_answer": false
+      }
+    ]
   }
 ]
