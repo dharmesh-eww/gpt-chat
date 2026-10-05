@@ -1027,5 +1027,1076 @@
         "is_answer": false
       }
     ]
+  },
+  {
+    "question": "Quick review: Who painted the Mona Lisa?",
+    "options": [
+      {
+        "text": "Raphael",
+        "is_answer": false
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "is_answer": true
+      },
+      {
+        "text": "Donatello",
+        "is_answer": false
+      },
+      {
+        "text": "Michelangelo",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge check: Which art movement is associated with Claude Monet?",
+    "options": [
+      {
+        "text": "Surrealism",
+        "is_answer": false
+      },
+      {
+        "text": "Baroque",
+        "is_answer": false
+      },
+      {
+        "text": "Cubism",
+        "is_answer": false
+      },
+      {
+        "text": "Impressionism",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Test yourself: What is a sculpture?",
+    "options": [
+      {
+        "text": "A stage performance",
+        "is_answer": false
+      },
+      {
+        "text": "A musical composition",
+        "is_answer": false
+      },
+      {
+        "text": "A three-dimensional artwork",
+        "is_answer": true
+      },
+      {
+        "text": "A written poem",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Recall check: Which material is traditionally used in fresco painting?",
+    "options": [
+      {
+        "text": "Wet plaster",
+        "is_answer": true
+      },
+      {
+        "text": "Dry paper",
+        "is_answer": false
+      },
+      {
+        "text": "Metal wire",
+        "is_answer": false
+      },
+      {
+        "text": "Glass fiber",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice question: What is chiaroscuro?",
+    "options": [
+      {
+        "text": "A type of sculpture",
+        "is_answer": false
+      },
+      {
+        "text": "A dance form",
+        "is_answer": false
+      },
+      {
+        "text": "A printing machine",
+        "is_answer": false
+      },
+      {
+        "text": "The contrast of light and dark",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz challenge: Which artist painted The Starry Night?",
+    "options": [
+      {
+        "text": "Edvard Munch",
+        "is_answer": false
+      },
+      {
+        "text": "Salvador Dalí",
+        "is_answer": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_answer": false
+      },
+      {
+        "text": "Vincent van Gogh",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review item: Cubism is strongly associated with which artist?",
+    "options": [
+      {
+        "text": "Andy Warhol",
+        "is_answer": false
+      },
+      {
+        "text": "Pablo Picasso",
+        "is_answer": true
+      },
+      {
+        "text": "Claude Monet",
+        "is_answer": false
+      },
+      {
+        "text": "Rembrandt",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Study check: What is a portrait?",
+    "options": [
+      {
+        "text": "An artwork depicting a person",
+        "is_answer": true
+      },
+      {
+        "text": "A landscape map",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building plan",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Concept check: What is a landscape painting primarily concerned with?",
+    "options": [
+      {
+        "text": "Only human faces",
+        "is_answer": false
+      },
+      {
+        "text": "Musical notation",
+        "is_answer": false
+      },
+      {
+        "text": "Geometric equations",
+        "is_answer": false
+      },
+      {
+        "text": "Scenery and natural surroundings",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Revision question: Which style is known for dramatic emotion and ornamentation?",
+    "options": [
+      {
+        "text": "Pop Art",
+        "is_answer": false
+      },
+      {
+        "text": "Dada",
+        "is_answer": false
+      },
+      {
+        "text": "Minimalism",
+        "is_answer": false
+      },
+      {
+        "text": "Baroque",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Warm-up question: What is a museum primarily intended to do?",
+    "options": [
+      {
+        "text": "Teach only mathematics",
+        "is_answer": false
+      },
+      {
+        "text": "Preserve and display collections",
+        "is_answer": true
+      },
+      {
+        "text": "Manufacture paintings",
+        "is_answer": false
+      },
+      {
+        "text": "Sell only books",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Self-test: What is pottery commonly made from?",
+    "options": [
+      {
+        "text": "Rubber",
+        "is_answer": false
+      },
+      {
+        "text": "Clay",
+        "is_answer": true
+      },
+      {
+        "text": "Silk",
+        "is_answer": false
+      },
+      {
+        "text": "Paper",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic check: Which instrument family does the violin belong to?",
+    "options": [
+      {
+        "text": "Woodwind",
+        "is_answer": false
+      },
+      {
+        "text": "Strings",
+        "is_answer": true
+      },
+      {
+        "text": "Percussion",
+        "is_answer": false
+      },
+      {
+        "text": "Brass",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Fast quiz: How many strings does a standard violin have?",
+    "options": [
+      {
+        "text": "Five",
+        "is_answer": false
+      },
+      {
+        "text": "Six",
+        "is_answer": false
+      },
+      {
+        "text": "Three",
+        "is_answer": false
+      },
+      {
+        "text": "Four",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Learning check: What is a symphony?",
+    "options": [
+      {
+        "text": "A dance form",
+        "is_answer": false
+      },
+      {
+        "text": "A large-scale orchestral composition",
+        "is_answer": true
+      },
+      {
+        "text": "A painting technique",
+        "is_answer": false
+      },
+      {
+        "text": "A sculpture material",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice check: What is rhythm in music?",
+    "options": [
+      {
+        "text": "The organization of beats and durations",
+        "is_answer": true
+      },
+      {
+        "text": "The pitch of a single note",
+        "is_answer": false
+      },
+      {
+        "text": "The color of a painting",
+        "is_answer": false
+      },
+      {
+        "text": "The shape of a stage",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Exam-style review: Which instrument commonly has 88 keys?",
+    "options": [
+      {
+        "text": "Piano",
+        "is_answer": true
+      },
+      {
+        "text": "Trumpet",
+        "is_answer": false
+      },
+      {
+        "text": "Flute",
+        "is_answer": false
+      },
+      {
+        "text": "Violin",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Core concept check: What is a melody?",
+    "options": [
+      {
+        "text": "A painting pigment",
+        "is_answer": false
+      },
+      {
+        "text": "A dance costume",
+        "is_answer": false
+      },
+      {
+        "text": "A sequence of musical notes forming a musical line",
+        "is_answer": true
+      },
+      {
+        "text": "A stage curtain",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Quick quiz: What is harmony in music?",
+    "options": [
+      {
+        "text": "The design of a museum",
+        "is_answer": false
+      },
+      {
+        "text": "The combination of notes sounding together",
+        "is_answer": true
+      },
+      {
+        "text": "The speed of a painting",
+        "is_answer": false
+      },
+      {
+        "text": "The size of an orchestra",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Memory check: What is ballet?",
+    "options": [
+      {
+        "text": "A formal dance using controlled movements",
+        "is_answer": true
+      },
+      {
+        "text": "A painting technique",
+        "is_answer": false
+      },
+      {
+        "text": "A literary genre",
+        "is_answer": false
+      },
+      {
+        "text": "A building style",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Assessment item: What is choreography?",
+    "options": [
+      {
+        "text": "The writing of novels",
+        "is_answer": false
+      },
+      {
+        "text": "The mixing of paint",
+        "is_answer": false
+      },
+      {
+        "text": "The carving of stone",
+        "is_answer": false
+      },
+      {
+        "text": "The planned arrangement of dance movements",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study question: What is theatre?",
+    "options": [
+      {
+        "text": "A musical scale",
+        "is_answer": false
+      },
+      {
+        "text": "A museum archive",
+        "is_answer": false
+      },
+      {
+        "text": "A performing art presented to an audience",
+        "is_answer": true
+      },
+      {
+        "text": "A type of sculpture",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Challenge question: What is a playwright?",
+    "options": [
+      {
+        "text": "A person who conducts traffic",
+        "is_answer": false
+      },
+      {
+        "text": "A person who writes plays",
+        "is_answer": true
+      },
+      {
+        "text": "A person who paints portraits",
+        "is_answer": false
+      },
+      {
+        "text": "A person who designs shoes",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Review challenge: What is improvisation in performance?",
+    "options": [
+      {
+        "text": "Creating or adapting material spontaneously",
+        "is_answer": true
+      },
+      {
+        "text": "Repeating a fixed script exactly",
+        "is_answer": false
+      },
+      {
+        "text": "Painting a wall",
+        "is_answer": false
+      },
+      {
+        "text": "Building a museum",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge test: What is architecture?",
+    "options": [
+      {
+        "text": "The study of stars",
+        "is_answer": false
+      },
+      {
+        "text": "The writing of music",
+        "is_answer": false
+      },
+      {
+        "text": "The classification of animals",
+        "is_answer": false
+      },
+      {
+        "text": "The art and practice of designing buildings",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept review: Which structure is an example of ancient Greek architecture?",
+    "options": [
+      {
+        "text": "The Sydney Opera House",
+        "is_answer": false
+      },
+      {
+        "text": "The Taj Mahal",
+        "is_answer": false
+      },
+      {
+        "text": "The Parthenon",
+        "is_answer": true
+      },
+      {
+        "text": "The Eiffel Tower",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic review: What is a column in architecture?",
+    "options": [
+      {
+        "text": "A floor painting",
+        "is_answer": false
+      },
+      {
+        "text": "A vertical structural or decorative element",
+        "is_answer": true
+      },
+      {
+        "text": "A type of roof tile",
+        "is_answer": false
+      },
+      {
+        "text": "A window curtain",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice test: What is a dome?",
+    "options": [
+      {
+        "text": "A rounded roof or ceiling structure",
+        "is_answer": true
+      },
+      {
+        "text": "A musical scale",
+        "is_answer": false
+      },
+      {
+        "text": "A sculpture tool",
+        "is_answer": false
+      },
+      {
+        "text": "A dance step",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Recall question: What is photography?",
+    "options": [
+      {
+        "text": "Carving stone",
+        "is_answer": false
+      },
+      {
+        "text": "Writing plays",
+        "is_answer": false
+      },
+      {
+        "text": "Mixing clay",
+        "is_answer": false
+      },
+      {
+        "text": "Creating images using light",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz review: What does a camera aperture control?",
+    "options": [
+      {
+        "text": "The lens color",
+        "is_answer": false
+      },
+      {
+        "text": "The memory card shape",
+        "is_answer": false
+      },
+      {
+        "text": "The opening through which light enters",
+        "is_answer": true
+      },
+      {
+        "text": "The camera's battery size",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Understanding check: What is composition in visual art?",
+    "options": [
+      {
+        "text": "The weight of a sculpture",
+        "is_answer": false
+      },
+      {
+        "text": "The arrangement of elements within an artwork",
+        "is_answer": true
+      },
+      {
+        "text": "The price of a painting",
+        "is_answer": false
+      },
+      {
+        "text": "The age of an artist",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Fundamentals check: What is perspective used to represent?",
+    "options": [
+      {
+        "text": "Depth and spatial relationships",
+        "is_answer": true
+      },
+      {
+        "text": "Musical rhythm",
+        "is_answer": false
+      },
+      {
+        "text": "Dance tempo",
+        "is_answer": false
+      },
+      {
+        "text": "Paper quality",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Subject check: What is printmaking?",
+    "options": [
+      {
+        "text": "Writing a novel",
+        "is_answer": false
+      },
+      {
+        "text": "Recording a song",
+        "is_answer": false
+      },
+      {
+        "text": "Building a theatre",
+        "is_answer": false
+      },
+      {
+        "text": "Creating images by transferring ink from a prepared surface",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Focus question: What is an etching?",
+    "options": [
+      {
+        "text": "A type of opera",
+        "is_answer": false
+      },
+      {
+        "text": "A ceramic glaze",
+        "is_answer": false
+      },
+      {
+        "text": "A printmaking technique using an etched surface",
+        "is_answer": true
+      },
+      {
+        "text": "A dance style",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning review: What is calligraphy?",
+    "options": [
+      {
+        "text": "Film editing",
+        "is_answer": false
+      },
+      {
+        "text": "Decorative or artistic handwriting",
+        "is_answer": true
+      },
+      {
+        "text": "Stone carving",
+        "is_answer": false
+      },
+      {
+        "text": "Stage lighting",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Test item: What is mosaic art?",
+    "options": [
+      {
+        "text": "Art made by assembling small pieces of material",
+        "is_answer": true
+      },
+      {
+        "text": "Art made only with sound",
+        "is_answer": false
+      },
+      {
+        "text": "Art made only from smoke",
+        "is_answer": false
+      },
+      {
+        "text": "Art made only from fabric",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Revision check: What is stained glass?",
+    "options": [
+      {
+        "text": "A metal sculpture",
+        "is_answer": false
+      },
+      {
+        "text": "A clay instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A type of dance",
+        "is_answer": false
+      },
+      {
+        "text": "Colored glass arranged into decorative designs",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Skill check: What is an art gallery?",
+    "options": [
+      {
+        "text": "A sports stadium",
+        "is_answer": false
+      },
+      {
+        "text": "A railway station",
+        "is_answer": false
+      },
+      {
+        "text": "A place where artworks are displayed",
+        "is_answer": true
+      },
+      {
+        "text": "A laboratory for chemistry",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Mastery check: What is cultural heritage?",
+    "options": [
+      {
+        "text": "Only weather data",
+        "is_answer": false
+      },
+      {
+        "text": "Practices, places, and objects passed through generations",
+        "is_answer": true
+      },
+      {
+        "text": "Only modern technology",
+        "is_answer": false
+      },
+      {
+        "text": "Only financial records",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Key idea check: What is folklore?",
+    "options": [
+      {
+        "text": "Traditional stories, beliefs, and customs",
+        "is_answer": true
+      },
+      {
+        "text": "A scientific equation",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Short quiz: What is a festival generally?",
+    "options": [
+      {
+        "text": "A type of camera",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A storage device",
+        "is_answer": false
+      },
+      {
+        "text": "A cultural or celebratory event",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Prep question: What is opera?",
+    "options": [
+      {
+        "text": "A sculpture method",
+        "is_answer": false
+      },
+      {
+        "text": "A form of photography",
+        "is_answer": false
+      },
+      {
+        "text": "A dramatic work combining singing and orchestral music",
+        "is_answer": true
+      },
+      {
+        "text": "A silent painting",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Study challenge: What is a concerto?",
+    "options": [
+      {
+        "text": "A museum label",
+        "is_answer": false
+      },
+      {
+        "text": "A composition featuring a soloist with an orchestra",
+        "is_answer": true
+      },
+      {
+        "text": "A type of building",
+        "is_answer": false
+      },
+      {
+        "text": "A dance costume",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Review test: What is jazz known for?",
+    "options": [
+      {
+        "text": "Improvisation and distinctive rhythmic traditions",
+        "is_answer": true
+      },
+      {
+        "text": "Only fixed electronic sounds",
+        "is_answer": false
+      },
+      {
+        "text": "Only silent performance",
+        "is_answer": false
+      },
+      {
+        "text": "Only choral singing",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge review: What is a genre?",
+    "options": [
+      {
+        "text": "A paintbrush",
+        "is_answer": false
+      },
+      {
+        "text": "A museum ticket",
+        "is_answer": false
+      },
+      {
+        "text": "A camera lens",
+        "is_answer": false
+      },
+      {
+        "text": "A category or type of artistic work",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept test: What is animation?",
+    "options": [
+      {
+        "text": "Writing a legal contract",
+        "is_answer": false
+      },
+      {
+        "text": "Playing a single musical note",
+        "is_answer": false
+      },
+      {
+        "text": "Creating the appearance of movement from sequential images",
+        "is_answer": true
+      },
+      {
+        "text": "Carving stone",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice item: What is graphic design?",
+    "options": [
+      {
+        "text": "The study of planets",
+        "is_answer": false
+      },
+      {
+        "text": "Visual communication using images, typography, and layout",
+        "is_answer": true
+      },
+      {
+        "text": "The study of fossils",
+        "is_answer": false
+      },
+      {
+        "text": "The repair of engines",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic challenge: What is typography?",
+    "options": [
+      {
+        "text": "The design and arrangement of type",
+        "is_answer": true
+      },
+      {
+        "text": "The mixing of musical notes",
+        "is_answer": false
+      },
+      {
+        "text": "The carving of statues",
+        "is_answer": false
+      },
+      {
+        "text": "The planning of gardens",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Final review: What is an art curator?",
+    "options": [
+      {
+        "text": "A professional athlete",
+        "is_answer": false
+      },
+      {
+        "text": "A music instrument maker",
+        "is_answer": false
+      },
+      {
+        "text": "A building electrician",
+        "is_answer": false
+      },
+      {
+        "text": "A professional who manages and interprets collections or exhibitions",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Checkpoint: Who painted the Mona Lisa?",
+    "options": [
+      {
+        "text": "Leonardo da Vinci",
+        "is_answer": true
+      },
+      {
+        "text": "Donatello",
+        "is_answer": false
+      },
+      {
+        "text": "Michelangelo",
+        "is_answer": false
+      },
+      {
+        "text": "Raphael",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "undefined Which art movement is associated with Claude Monet? — Additional review",
+    "options": [
+      {
+        "text": "Baroque",
+        "is_answer": false
+      },
+      {
+        "text": "Cubism",
+        "is_answer": false
+      },
+      {
+        "text": "Impressionism",
+        "is_answer": true
+      },
+      {
+        "text": "Surrealism",
+        "is_answer": false
+      }
+    ]
   }
 ]
