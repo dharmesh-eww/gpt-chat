@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What is the closest star to Earth?",
+    "options": [
+      {
+        "text": "Sirius",
+        "is_answer": false
+      },
+      {
+        "text": "The Sun",
+        "is_answer": true
+      },
+      {
+        "text": "Polaris",
+        "is_answer": false
+      },
+      {
+        "text": "Proxima Centauri",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the largest planet in the Solar System?",
+    "options": [
+      {
+        "text": "Earth",
+        "is_answer": false
+      },
+      {
+        "text": "Saturn",
+        "is_answer": false
+      },
+      {
+        "text": "Jupiter",
+        "is_answer": true
+      },
+      {
+        "text": "Neptune",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet is known for its prominent rings?",
+    "options": [
+      {
+        "text": "Mars",
+        "is_answer": false
+      },
+      {
+        "text": "Venus",
+        "is_answer": false
+      },
+      {
+        "text": "Saturn",
+        "is_answer": true
+      },
+      {
+        "text": "Mercury",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      {
+        "text": "Mercury",
+        "is_answer": true
+      },
+      {
+        "text": "Venus",
+        "is_answer": false
+      },
+      {
+        "text": "Earth",
+        "is_answer": false
+      },
+      {
+        "text": "Mars",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      {
+        "text": "Mars",
+        "is_answer": true
+      },
+      {
+        "text": "Jupiter",
+        "is_answer": false
+      },
+      {
+        "text": "Neptune",
+        "is_answer": false
+      },
+      {
+        "text": "Venus",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is Earth's natural satellite?",
+    "options": [
+      {
+        "text": "Europa",
+        "is_answer": false
+      },
+      {
+        "text": "The Moon",
+        "is_answer": true
+      },
+      {
+        "text": "Titan",
+        "is_answer": false
+      },
+      {
+        "text": "Phobos",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What galaxy contains the Solar System?",
+    "options": [
+      {
+        "text": "Andromeda",
+        "is_answer": false
+      },
+      {
+        "text": "Milky Way",
+        "is_answer": true
+      },
+      {
+        "text": "Whirlpool",
+        "is_answer": false
+      },
+      {
+        "text": "Sombrero",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a light-year?",
+    "options": [
+      {
+        "text": "A unit of distance",
+        "is_answer": true
+      },
+      {
+        "text": "A unit of time",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of mass",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of temperature",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a star primarily made of?",
+    "options": [
+      {
+        "text": "Liquid water",
+        "is_answer": false
+      },
+      {
+        "text": "Hot plasma",
+        "is_answer": true
+      },
+      {
+        "text": "Solid rock",
+        "is_answer": false
+      },
+      {
+        "text": "Ice",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": [
+      {
+        "text": "Magnetism",
+        "is_answer": false
+      },
+      {
+        "text": "Gravity",
+        "is_answer": true
+      },
+      {
+        "text": "Friction",
+        "is_answer": false
+      },
+      {
+        "text": "Sound",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an asteroid?",
+    "options": [
+      {
+        "text": "A rocky or metallic small body orbiting the Sun",
+        "is_answer": true
+      },
+      {
+        "text": "A type of star",
+        "is_answer": false
+      },
+      {
+        "text": "A galaxy",
+        "is_answer": false
+      },
+      {
+        "text": "A planet's atmosphere",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a comet mainly composed of?",
+    "options": [
+      {
+        "text": "Liquid metal",
+        "is_answer": false
+      },
+      {
+        "text": "Ice, dust, and rocky material",
+        "is_answer": true
+      },
+      {
+        "text": "Pure oxygen",
+        "is_answer": false
+      },
+      {
+        "text": "Molten iron only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the main asteroid belt located?",
+    "options": [
+      {
+        "text": "Between Earth and Mars",
+        "is_answer": false
+      },
+      {
+        "text": "Between Mars and Jupiter",
+        "is_answer": true
+      },
+      {
+        "text": "Between Jupiter and Saturn",
+        "is_answer": false
+      },
+      {
+        "text": "Beyond Neptune only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a solar eclipse?",
+    "options": [
+      {
+        "text": "When the Moon passes between Earth and the Sun",
+        "is_answer": true
+      },
+      {
+        "text": "When Earth passes between Mars and Jupiter",
+        "is_answer": false
+      },
+      {
+        "text": "When the Sun passes behind Earth",
+        "is_answer": false
+      },
+      {
+        "text": "When Jupiter blocks the Moon",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a lunar eclipse?",
+    "options": [
+      {
+        "text": "When Earth passes between the Sun and the Moon",
+        "is_answer": true
+      },
+      {
+        "text": "When the Moon passes between Earth and the Sun",
+        "is_answer": false
+      },
+      {
+        "text": "When Mars blocks the Sun",
+        "is_answer": false
+      },
+      {
+        "text": "When Venus blocks Earth",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a black hole?",
+    "options": [
+      {
+        "text": "An empty region of space",
+        "is_answer": false
+      },
+      {
+        "text": "A region where gravity is so strong that light cannot escape",
+        "is_answer": true
+      },
+      {
+        "text": "A cold planet",
+        "is_answer": false
+      },
+      {
+        "text": "A cloud of dust only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an event horizon?",
+    "options": [
+      {
+        "text": "The edge of the Solar System",
+        "is_answer": false
+      },
+      {
+        "text": "The boundary beyond which escape from a black hole is impossible",
+        "is_answer": true
+      },
+      {
+        "text": "The surface of a star",
+        "is_answer": false
+      },
+      {
+        "text": "The boundary of a galaxy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a supernova?",
+    "options": [
+      {
+        "text": "A powerful stellar explosion",
+        "is_answer": true
+      },
+      {
+        "text": "A new planet",
+        "is_answer": false
+      },
+      {
+        "text": "A comet's tail",
+        "is_answer": false
+      },
+      {
+        "text": "A lunar phase",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a nebula?",
+    "options": [
+      {
+        "text": "A type of planet",
+        "is_answer": false
+      },
+      {
+        "text": "A cloud of gas and dust in space",
+        "is_answer": true
+      },
+      {
+        "text": "A satellite dish",
+        "is_answer": false
+      },
+      {
+        "text": "A black hole's event horizon",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a galaxy?",
+    "options": [
+      {
+        "text": "A single planet",
+        "is_answer": false
+      },
+      {
+        "text": "A gravitationally bound system of stars, gas, and dust",
+        "is_answer": true
+      },
+      {
+        "text": "A comet",
+        "is_answer": false
+      },
+      {
+        "text": "A meteor",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is cosmology?",
+    "options": [
+      {
+        "text": "The study of insects",
+        "is_answer": false
+      },
+      {
+        "text": "The study of the universe as a whole",
+        "is_answer": true
+      },
+      {
+        "text": "The study of oceans",
+        "is_answer": false
+      },
+      {
+        "text": "The study of architecture",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a telescope used for?",
+    "options": [
+      {
+        "text": "Measuring earthquakes only",
+        "is_answer": false
+      },
+      {
+        "text": "Observing distant astronomical objects",
+        "is_answer": true
+      },
+      {
+        "text": "Testing food",
+        "is_answer": false
+      },
+      {
+        "text": "Generating electricity",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an exoplanet?",
+    "options": [
+      {
+        "text": "A planet outside our Solar System",
+        "is_answer": true
+      },
+      {
+        "text": "A moon around Earth",
+        "is_answer": false
+      },
+      {
+        "text": "A dwarf planet only",
+        "is_answer": false
+      },
+      {
+        "text": "A comet",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an astronaut?",
+    "options": [
+      {
+        "text": "A person trained for spaceflight",
+        "is_answer": true
+      },
+      {
+        "text": "A telescope operator only",
+        "is_answer": false
+      },
+      {
+        "text": "A weather forecaster",
+        "is_answer": false
+      },
+      {
+        "text": "A spacecraft engine",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a rocket primarily used for in spaceflight?",
+    "options": [
+      {
+        "text": "Producing oxygen",
+        "is_answer": false
+      },
+      {
+        "text": "Providing thrust",
+        "is_answer": true
+      },
+      {
+        "text": "Measuring rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "Creating stars",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a satellite?",
+    "options": [
+      {
+        "text": "Only a natural moon",
+        "is_answer": false
+      },
+      {
+        "text": "An object placed in orbit around another body",
+        "is_answer": true
+      },
+      {
+        "text": "Only a returning spacecraft",
+        "is_answer": false
+      },
+      {
+        "text": "A type of asteroid",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a geostationary orbit?",
+    "options": [
+      {
+        "text": "An orbit around the Moon only",
+        "is_answer": false
+      },
+      {
+        "text": "An orbit in which a satellite appears fixed over one point on Earth",
+        "is_answer": true
+      },
+      {
+        "text": "An orbit outside the Solar System",
+        "is_answer": false
+      },
+      {
+        "text": "An orbit through the Sun",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the International Space Station?",
+    "options": [
+      {
+        "text": "A telescope on Mars",
+        "is_answer": false
+      },
+      {
+        "text": "A crewed research station in low Earth orbit",
+        "is_answer": true
+      },
+      {
+        "text": "A lunar base",
+        "is_answer": false
+      },
+      {
+        "text": "A space probe",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a space probe?",
+    "options": [
+      {
+        "text": "A human astronaut",
+        "is_answer": false
+      },
+      {
+        "text": "An uncrewed spacecraft sent to explore space",
+        "is_answer": true
+      },
+      {
+        "text": "A ground telescope",
+        "is_answer": false
+      },
+      {
+        "text": "A meteorite",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a rover?",
+    "options": [
+      {
+        "text": "A type of star",
+        "is_answer": false
+      },
+      {
+        "text": "A vehicle designed to move across a planetary surface",
+        "is_answer": true
+      },
+      {
+        "text": "A launch tower",
+        "is_answer": false
+      },
+      {
+        "text": "A telescope lens",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is Mars's largest moon?",
+    "options": [
+      {
+        "text": "Deimos",
+        "is_answer": false
+      },
+      {
+        "text": "Phobos",
+        "is_answer": true
+      },
+      {
+        "text": "Europa",
+        "is_answer": false
+      },
+      {
+        "text": "Titan",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      {
+        "text": "Jupiter",
+        "is_answer": true
+      },
+      {
+        "text": "Saturn",
+        "is_answer": false
+      },
+      {
+        "text": "Mars",
+        "is_answer": false
+      },
+      {
+        "text": "Neptune",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet is hottest on average?",
+    "options": [
+      {
+        "text": "Mercury",
+        "is_answer": false
+      },
+      {
+        "text": "Venus",
+        "is_answer": true
+      },
+      {
+        "text": "Earth",
+        "is_answer": false
+      },
+      {
+        "text": "Mars",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet has the shortest year?",
+    "options": [
+      {
+        "text": "Mercury",
+        "is_answer": true
+      },
+      {
+        "text": "Earth",
+        "is_answer": false
+      },
+      {
+        "text": "Mars",
+        "is_answer": false
+      },
+      {
+        "text": "Neptune",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Sun classified as?",
+    "options": [
+      {
+        "text": "A planet",
+        "is_answer": false
+      },
+      {
+        "text": "A star",
+        "is_answer": true
+      },
+      {
+        "text": "A galaxy",
+        "is_answer": false
+      },
+      {
+        "text": "A comet",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What process powers the Sun?",
+    "options": [
+      {
+        "text": "Chemical combustion",
+        "is_answer": false
+      },
+      {
+        "text": "Nuclear fusion",
+        "is_answer": true
+      },
+      {
+        "text": "Nuclear fission only",
+        "is_answer": false
+      },
+      {
+        "text": "Mechanical friction",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a meteor?",
+    "options": [
+      {
+        "text": "A planet",
+        "is_answer": false
+      },
+      {
+        "text": "The visible streak produced when a meteoroid enters an atmosphere",
+        "is_answer": true
+      },
+      {
+        "text": "A galaxy",
+        "is_answer": false
+      },
+      {
+        "text": "A spacecraft",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a meteorite?",
+    "options": [
+      {
+        "text": "A star fragment",
+        "is_answer": false
+      },
+      {
+        "text": "A meteoroid fragment that reaches a planetary surface",
+        "is_answer": true
+      },
+      {
+        "text": "A comet tail",
+        "is_answer": false
+      },
+      {
+        "text": "A lunar phase",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an astronomical unit?",
+    "options": [
+      {
+        "text": "The mass of Earth",
+        "is_answer": false
+      },
+      {
+        "text": "A unit based on the average Earth-Sun distance",
+        "is_answer": true
+      },
+      {
+        "text": "The age of the universe",
+        "is_answer": false
+      },
+      {
+        "text": "The speed of light",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What causes Earth's seasons?",
+    "options": [
+      {
+        "text": "Earth's axial tilt as it orbits the Sun",
+        "is_answer": true
+      },
+      {
+        "text": "The Moon's phases",
+        "is_answer": false
+      },
+      {
+        "text": "Earth's distance from the Sun alone",
+        "is_answer": false
+      },
+      {
+        "text": "Solar eclipses",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a constellation?",
+    "options": [
+      {
+        "text": "A single star",
+        "is_answer": false
+      },
+      {
+        "text": "A recognized pattern or region of stars",
+        "is_answer": true
+      },
+      {
+        "text": "A planet's atmosphere",
+        "is_answer": false
+      },
+      {
+        "text": "A galaxy cluster",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Kuiper Belt?",
+    "options": [
+      {
+        "text": "A region inside the Sun",
+        "is_answer": false
+      },
+      {
+        "text": "A region beyond Neptune containing many icy bodies",
+        "is_answer": true
+      },
+      {
+        "text": "A ring around Earth",
+        "is_answer": false
+      },
+      {
+        "text": "A cloud around Venus",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the Oort Cloud?",
+    "options": [
+      {
+        "text": "A distant theoretical reservoir of icy bodies",
+        "is_answer": true
+      },
+      {
+        "text": "A cloud above Earth",
+        "is_answer": false
+      },
+      {
+        "text": "A ring around Saturn",
+        "is_answer": false
+      },
+      {
+        "text": "A layer of Mars",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a pulsar?",
+    "options": [
+      {
+        "text": "A type of planet",
+        "is_answer": false
+      },
+      {
+        "text": "A rapidly rotating neutron star producing regular pulses",
+        "is_answer": true
+      },
+      {
+        "text": "A comet",
+        "is_answer": false
+      },
+      {
+        "text": "A galaxy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a neutron star?",
+    "options": [
+      {
+        "text": "A very dense stellar remnant",
+        "is_answer": true
+      },
+      {
+        "text": "A gas giant",
+        "is_answer": false
+      },
+      {
+        "text": "A dwarf planet",
+        "is_answer": false
+      },
+      {
+        "text": "A comet",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a red giant?",
+    "options": [
+      {
+        "text": "A late-stage star that has expanded greatly",
+        "is_answer": true
+      },
+      {
+        "text": "A young planet",
+        "is_answer": false
+      },
+      {
+        "text": "A black hole",
+        "is_answer": false
+      },
+      {
+        "text": "A galaxy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a supergiant?",
+    "options": [
+      {
+        "text": "A very large and luminous star",
+        "is_answer": true
+      },
+      {
+        "text": "A small asteroid",
+        "is_answer": false
+      },
+      {
+        "text": "A dwarf planet",
+        "is_answer": false
+      },
+      {
+        "text": "A moon",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a galaxy cluster?",
+    "options": [
+      {
+        "text": "A group of galaxies bound by gravity",
+        "is_answer": true
+      },
+      {
+        "text": "A single star",
+        "is_answer": false
+      },
+      {
+        "text": "A planetary ring",
+        "is_answer": false
+      },
+      {
+        "text": "A meteor shower",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is dark matter?",
+    "options": [
+      {
+        "text": "A type of black hole",
+        "is_answer": false
+      },
+      {
+        "text": "Matter inferred from gravitational effects that does not emit detectable light",
+        "is_answer": true
+      },
+      {
+        "text": "A dark cloud visible to the eye",
+        "is_answer": false
+      },
+      {
+        "text": "Empty space",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is dark energy associated with?",
+    "options": [
+      {
+        "text": "The formation of Earth's oceans",
+        "is_answer": false
+      },
+      {
+        "text": "The accelerated expansion of the universe",
+        "is_answer": true
+      },
+      {
+        "text": "The rotation of the Moon",
+        "is_answer": false
+      },
+      {
+        "text": "Solar eclipses",
+        "is_answer": false
+      }
+    ]
+  }
+]
