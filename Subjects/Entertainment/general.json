@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What is a film director responsible for?",
+    "options": [
+      {
+        "text": "Guiding the artistic and technical production of a film",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a screenplay?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The written plan for a film",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is animation?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "Creating the appearance of movement from images",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a documentary?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A nonfiction film",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a television series?",
+    "options": [
+      {
+        "text": "A serialized television program",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a soundtrack?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Music associated with a film or show",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is a sequel?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A continuation of an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a prequel?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A story set before an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a trailer?",
+    "options": [
+      {
+        "text": "A preview of an upcoming film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a genre?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A category of entertainment",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a film director responsible for?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Guiding the artistic and technical production of a film",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a screenplay?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The written plan for a film",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes animation?",
+    "options": [
+      {
+        "text": "Creating the appearance of movement from images",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a documentary?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A nonfiction film",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a television series?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A serialized television program",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a soundtrack?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Music associated with a film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a sequel?",
+    "options": [
+      {
+        "text": "A continuation of an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a prequel?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A story set before an earlier story",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a trailer?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A preview of an upcoming film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a genre?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A category of entertainment",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a film director responsible for?",
+    "options": [
+      {
+        "text": "Guiding the artistic and technical production of a film",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a screenplay?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The written plan for a film",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of animation?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "Creating the appearance of movement from images",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a documentary?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A nonfiction film",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a television series?",
+    "options": [
+      {
+        "text": "A serialized television program",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a soundtrack?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Music associated with a film or show",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a sequel?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A continuation of an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a prequel?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A story set before an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a trailer?",
+    "options": [
+      {
+        "text": "A preview of an upcoming film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a genre?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A category of entertainment",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a film director responsible for?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Guiding the artistic and technical production of a film",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a screenplay?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The written plan for a film",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for animation?",
+    "options": [
+      {
+        "text": "Creating the appearance of movement from images",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a documentary?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A nonfiction film",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a television series?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A serialized television program",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a soundtrack?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Music associated with a film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a sequel?",
+    "options": [
+      {
+        "text": "A continuation of an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a prequel?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A story set before an earlier story",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a trailer?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A preview of an upcoming film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a genre?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A category of entertainment",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a film director responsible for?",
+    "options": [
+      {
+        "text": "Guiding the artistic and technical production of a film",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a screenplay?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The written plan for a film",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is animation?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "Creating the appearance of movement from images",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a documentary?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A nonfiction film",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a television series?",
+    "options": [
+      {
+        "text": "A serialized television program",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a soundtrack?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Music associated with a film or show",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a sequel?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A continuation of an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a prequel?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A story set before an earlier story",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a trailer?",
+    "options": [
+      {
+        "text": "A preview of an upcoming film or show",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a genre?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A category of entertainment",
+        "is_answer": true
+      }
+    ]
+  }
+]
