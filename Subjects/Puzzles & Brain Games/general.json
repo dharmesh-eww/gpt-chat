@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What is a riddle?",
+    "options": [
+      {
+        "text": "A question or statement requiring clever thinking to solve",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a logic puzzle?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A problem requiring deductive or logical reasoning",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is a Sudoku puzzle?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A number-placement puzzle using a grid",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a crossword?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A word puzzle using intersecting entries",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a maze?",
+    "options": [
+      {
+        "text": "A puzzle involving finding a path through a network",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is lateral thinking?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Solving problems by considering unconventional perspectives",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is a sequence puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle based on identifying the next item in an ordered pattern",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a word puzzle?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving letters or words",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a brain teaser?",
+    "options": [
+      {
+        "text": "A short challenging problem designed to test thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a strategy puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle requiring planning to reach a goal",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a riddle?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A question or statement requiring clever thinking to solve",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a logic puzzle?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A problem requiring deductive or logical reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a sudoku puzzle?",
+    "options": [
+      {
+        "text": "A number-placement puzzle using a grid",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a crossword?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A word puzzle using intersecting entries",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a maze?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving finding a path through a network",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes lateral thinking?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Solving problems by considering unconventional perspectives",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a sequence puzzle?",
+    "options": [
+      {
+        "text": "A puzzle based on identifying the next item in an ordered pattern",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a word puzzle?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving letters or words",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a brain teaser?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A short challenging problem designed to test thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes a strategy puzzle?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle requiring planning to reach a goal",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a riddle?",
+    "options": [
+      {
+        "text": "A question or statement requiring clever thinking to solve",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a logic puzzle?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A problem requiring deductive or logical reasoning",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a Sudoku puzzle?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A number-placement puzzle using a grid",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a crossword?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A word puzzle using intersecting entries",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a maze?",
+    "options": [
+      {
+        "text": "A puzzle involving finding a path through a network",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of lateral thinking?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Solving problems by considering unconventional perspectives",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a sequence puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle based on identifying the next item in an ordered pattern",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a word puzzle?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving letters or words",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a brain teaser?",
+    "options": [
+      {
+        "text": "A short challenging problem designed to test thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of a strategy puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle requiring planning to reach a goal",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a riddle?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A question or statement requiring clever thinking to solve",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a logic puzzle?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A problem requiring deductive or logical reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a Sudoku puzzle?",
+    "options": [
+      {
+        "text": "A number-placement puzzle using a grid",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a crossword?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A word puzzle using intersecting entries",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a maze?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving finding a path through a network",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for lateral thinking?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Solving problems by considering unconventional perspectives",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a sequence puzzle?",
+    "options": [
+      {
+        "text": "A puzzle based on identifying the next item in an ordered pattern",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a word puzzle?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving letters or words",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a brain teaser?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A short challenging problem designed to test thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for a strategy puzzle?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle requiring planning to reach a goal",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a riddle?",
+    "options": [
+      {
+        "text": "A question or statement requiring clever thinking to solve",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a logic puzzle?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A problem requiring deductive or logical reasoning",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a Sudoku puzzle?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A number-placement puzzle using a grid",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a crossword?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A word puzzle using intersecting entries",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a maze?",
+    "options": [
+      {
+        "text": "A puzzle involving finding a path through a network",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is lateral thinking?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "Solving problems by considering unconventional perspectives",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a sequence puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle based on identifying the next item in an ordered pattern",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a word puzzle?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle involving letters or words",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a brain teaser?",
+    "options": [
+      {
+        "text": "A short challenging problem designed to test thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is a strategy puzzle?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A puzzle requiring planning to reach a goal",
+        "is_answer": true
+      }
+    ]
+  }
+]
