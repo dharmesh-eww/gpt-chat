@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What is philosophy?",
+    "options": [
+      {
+        "text": "The systematic study of fundamental questions about existence and knowledge",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is ethics?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The study of moral principles",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is logic?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "The study of valid reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is epistemology?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "The study of knowledge and justified belief",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is psychology?",
+    "options": [
+      {
+        "text": "The scientific study of behavior and mental processes",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is memory?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "The ability to encode, store, and retrieve information",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is perception?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The process of interpreting sensory information",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is personality?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A person's relatively enduring pattern of thoughts and behavior",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is cognitive bias?",
+    "options": [
+      {
+        "text": "A systematic error in thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is classical conditioning?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Learning through association between stimuli",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes philosophy?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "The systematic study of fundamental questions about existence and knowledge",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes ethics?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The study of moral principles",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes logic?",
+    "options": [
+      {
+        "text": "The study of valid reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes epistemology?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "The study of knowledge and justified belief",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes psychology?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "The scientific study of behavior and mental processes",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes memory?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "The ability to encode, store, and retrieve information",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes perception?",
+    "options": [
+      {
+        "text": "The process of interpreting sensory information",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes personality?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A person's relatively enduring pattern of thoughts and behavior",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes cognitive bias?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A systematic error in thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer best describes classical conditioning?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Learning through association between stimuli",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of philosophy?",
+    "options": [
+      {
+        "text": "The systematic study of fundamental questions about existence and knowledge",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of ethics?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The study of moral principles",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of logic?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "The study of valid reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of epistemology?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "The study of knowledge and justified belief",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of psychology?",
+    "options": [
+      {
+        "text": "The scientific study of behavior and mental processes",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of memory?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "The ability to encode, store, and retrieve information",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of perception?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The process of interpreting sensory information",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of personality?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A person's relatively enduring pattern of thoughts and behavior",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of cognitive bias?",
+    "options": [
+      {
+        "text": "A systematic error in thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the correct description of classical conditioning?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Learning through association between stimuli",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for philosophy?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "The systematic study of fundamental questions about existence and knowledge",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for ethics?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The study of moral principles",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for logic?",
+    "options": [
+      {
+        "text": "The study of valid reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for epistemology?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "The study of knowledge and justified belief",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for psychology?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "The scientific study of behavior and mental processes",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for memory?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "The ability to encode, store, and retrieve information",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for perception?",
+    "options": [
+      {
+        "text": "The process of interpreting sensory information",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for personality?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A person's relatively enduring pattern of thoughts and behavior",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for cognitive bias?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A systematic error in thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the best definition for classical conditioning?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Learning through association between stimuli",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is philosophy?",
+    "options": [
+      {
+        "text": "The systematic study of fundamental questions about existence and knowledge",
+        "is_answer": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is ethics?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "The study of moral principles",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is logic?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "The study of valid reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is epistemology?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "The study of knowledge and justified belief",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is psychology?",
+    "options": [
+      {
+        "text": "The scientific study of behavior and mental processes",
+        "is_answer": true
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is memory?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "The ability to encode, store, and retrieve information",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is perception?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The process of interpreting sensory information",
+        "is_answer": true
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is personality?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A person's relatively enduring pattern of thoughts and behavior",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is cognitive bias?",
+    "options": [
+      {
+        "text": "A systematic error in thinking",
+        "is_answer": true
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly identifies What is classical conditioning?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Learning through association between stimuli",
+        "is_answer": true
+      }
+    ]
+  }
+]
