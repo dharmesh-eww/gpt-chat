@@ -1048,5 +1048,1055 @@
         "is_answer": true
       }
     ]
+  },
+  {
+    "question": "Quick review: Which option correctly answers: What does CPU stand for?",
+    "options": [
+      {
+        "text": "Computer Primary Utility",
+        "is_answer": false
+      },
+      {
+        "text": "Central Program User",
+        "is_answer": false
+      },
+      {
+        "text": "Control Processing User",
+        "is_answer": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Knowledge check: Which option correctly answers: Which device is mainly used to point and click?",
+    "options": [
+      {
+        "text": "speaker",
+        "is_answer": false
+      },
+      {
+        "text": "mouse",
+        "is_answer": true
+      },
+      {
+        "text": "monitor",
+        "is_answer": false
+      },
+      {
+        "text": "printer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Test yourself: Which option correctly answers: What is the main purpose of an operating system?",
+    "options": [
+      {
+        "text": "print every document",
+        "is_answer": false
+      },
+      {
+        "text": "increase screen size",
+        "is_answer": false
+      },
+      {
+        "text": "replace the keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "manage computer resources and provide services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Recall check: Which option correctly answers: What does URL identify?",
+    "options": [
+      {
+        "text": "a keyboard layout",
+        "is_answer": false
+      },
+      {
+        "text": "a web resource address",
+        "is_answer": true
+      },
+      {
+        "text": "a computer's battery",
+        "is_answer": false
+      },
+      {
+        "text": "a printer cartridge",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice question: Which option correctly answers: Which storage keeps data when power is off?",
+    "options": [
+      {
+        "text": "RAM",
+        "is_answer": false
+      },
+      {
+        "text": "CPU cache only",
+        "is_answer": false
+      },
+      {
+        "text": "register",
+        "is_answer": false
+      },
+      {
+        "text": "SSD",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz challenge: Which option correctly answers: What does HTML mainly describe?",
+    "options": [
+      {
+        "text": "processor speed",
+        "is_answer": false
+      },
+      {
+        "text": "the structure of web pages",
+        "is_answer": true
+      },
+      {
+        "text": "database encryption",
+        "is_answer": false
+      },
+      {
+        "text": "audio compression",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Review item: Which option correctly answers: What is a programming variable?",
+    "options": [
+      {
+        "text": "a physical cable",
+        "is_answer": false
+      },
+      {
+        "text": "a monitor type",
+        "is_answer": false
+      },
+      {
+        "text": "a network tower",
+        "is_answer": false
+      },
+      {
+        "text": "a named storage location for a value",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study check: Which option correctly answers: What is AI commonly used for?",
+    "options": [
+      {
+        "text": "only charging devices",
+        "is_answer": false
+      },
+      {
+        "text": "performing tasks that can involve learning or reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "only printing pages",
+        "is_answer": false
+      },
+      {
+        "text": "only storing files",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Concept check: Which option correctly answers: What is a computer network?",
+    "options": [
+      {
+        "text": "a single keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "a standalone battery",
+        "is_answer": false
+      },
+      {
+        "text": "a type of monitor",
+        "is_answer": false
+      },
+      {
+        "text": "connected devices that communicate",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Revision question: Which option correctly answers: What is a strong password generally characterized by?",
+    "options": [
+      {
+        "text": "a common word",
+        "is_answer": false
+      },
+      {
+        "text": "length and a mix of varied characters",
+        "is_answer": true
+      },
+      {
+        "text": "only the user's name",
+        "is_answer": false
+      },
+      {
+        "text": "four repeated digits",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Warm-up question: Select the correct answer: What does CPU stand for?",
+    "options": [
+      {
+        "text": "Computer Primary Utility",
+        "is_answer": false
+      },
+      {
+        "text": "Central Program User",
+        "is_answer": false
+      },
+      {
+        "text": "Control Processing User",
+        "is_answer": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Self-test: Select the correct answer: Which device is mainly used to point and click?",
+    "options": [
+      {
+        "text": "speaker",
+        "is_answer": false
+      },
+      {
+        "text": "mouse",
+        "is_answer": true
+      },
+      {
+        "text": "monitor",
+        "is_answer": false
+      },
+      {
+        "text": "printer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic check: Select the correct answer: What is the main purpose of an operating system?",
+    "options": [
+      {
+        "text": "print every document",
+        "is_answer": false
+      },
+      {
+        "text": "increase screen size",
+        "is_answer": false
+      },
+      {
+        "text": "replace the keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "manage computer resources and provide services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fast quiz: Select the correct answer: What does URL identify?",
+    "options": [
+      {
+        "text": "a keyboard layout",
+        "is_answer": false
+      },
+      {
+        "text": "a web resource address",
+        "is_answer": true
+      },
+      {
+        "text": "a computer's battery",
+        "is_answer": false
+      },
+      {
+        "text": "a printer cartridge",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning check: Select the correct answer: Which storage keeps data when power is off?",
+    "options": [
+      {
+        "text": "RAM",
+        "is_answer": false
+      },
+      {
+        "text": "CPU cache only",
+        "is_answer": false
+      },
+      {
+        "text": "register",
+        "is_answer": false
+      },
+      {
+        "text": "SSD",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice check: Select the correct answer: What does HTML mainly describe?",
+    "options": [
+      {
+        "text": "processor speed",
+        "is_answer": false
+      },
+      {
+        "text": "the structure of web pages",
+        "is_answer": true
+      },
+      {
+        "text": "database encryption",
+        "is_answer": false
+      },
+      {
+        "text": "audio compression",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Exam-style review: Select the correct answer: What is a programming variable?",
+    "options": [
+      {
+        "text": "a physical cable",
+        "is_answer": false
+      },
+      {
+        "text": "a monitor type",
+        "is_answer": false
+      },
+      {
+        "text": "a network tower",
+        "is_answer": false
+      },
+      {
+        "text": "a named storage location for a value",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Core concept check: Select the correct answer: What is AI commonly used for?",
+    "options": [
+      {
+        "text": "only charging devices",
+        "is_answer": false
+      },
+      {
+        "text": "performing tasks that can involve learning or reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "only printing pages",
+        "is_answer": false
+      },
+      {
+        "text": "only storing files",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Quick quiz: Select the correct answer: What is a computer network?",
+    "options": [
+      {
+        "text": "a single keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "a standalone battery",
+        "is_answer": false
+      },
+      {
+        "text": "a type of monitor",
+        "is_answer": false
+      },
+      {
+        "text": "connected devices that communicate",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Memory check: Select the correct answer: What is a strong password generally characterized by?",
+    "options": [
+      {
+        "text": "a common word",
+        "is_answer": false
+      },
+      {
+        "text": "length and a mix of varied characters",
+        "is_answer": true
+      },
+      {
+        "text": "only the user's name",
+        "is_answer": false
+      },
+      {
+        "text": "four repeated digits",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Assessment item: What is the correct answer to: What does CPU stand for?",
+    "options": [
+      {
+        "text": "Computer Primary Utility",
+        "is_answer": false
+      },
+      {
+        "text": "Central Program User",
+        "is_answer": false
+      },
+      {
+        "text": "Control Processing User",
+        "is_answer": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study question: What is the correct answer to: Which device is mainly used to point and click?",
+    "options": [
+      {
+        "text": "speaker",
+        "is_answer": false
+      },
+      {
+        "text": "mouse",
+        "is_answer": true
+      },
+      {
+        "text": "monitor",
+        "is_answer": false
+      },
+      {
+        "text": "printer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Challenge question: What is the correct answer to: What is the main purpose of an operating system?",
+    "options": [
+      {
+        "text": "print every document",
+        "is_answer": false
+      },
+      {
+        "text": "increase screen size",
+        "is_answer": false
+      },
+      {
+        "text": "replace the keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "manage computer resources and provide services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review challenge: What is the correct answer to: What does URL identify?",
+    "options": [
+      {
+        "text": "a keyboard layout",
+        "is_answer": false
+      },
+      {
+        "text": "a web resource address",
+        "is_answer": true
+      },
+      {
+        "text": "a computer's battery",
+        "is_answer": false
+      },
+      {
+        "text": "a printer cartridge",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge test: What is the correct answer to: Which storage keeps data when power is off?",
+    "options": [
+      {
+        "text": "RAM",
+        "is_answer": false
+      },
+      {
+        "text": "CPU cache only",
+        "is_answer": false
+      },
+      {
+        "text": "register",
+        "is_answer": false
+      },
+      {
+        "text": "SSD",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept review: What is the correct answer to: What does HTML mainly describe?",
+    "options": [
+      {
+        "text": "processor speed",
+        "is_answer": false
+      },
+      {
+        "text": "the structure of web pages",
+        "is_answer": true
+      },
+      {
+        "text": "database encryption",
+        "is_answer": false
+      },
+      {
+        "text": "audio compression",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic review: What is the correct answer to: What is a programming variable?",
+    "options": [
+      {
+        "text": "a physical cable",
+        "is_answer": false
+      },
+      {
+        "text": "a monitor type",
+        "is_answer": false
+      },
+      {
+        "text": "a network tower",
+        "is_answer": false
+      },
+      {
+        "text": "a named storage location for a value",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice test: What is the correct answer to: What is AI commonly used for?",
+    "options": [
+      {
+        "text": "only charging devices",
+        "is_answer": false
+      },
+      {
+        "text": "performing tasks that can involve learning or reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "only printing pages",
+        "is_answer": false
+      },
+      {
+        "text": "only storing files",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Recall question: What is the correct answer to: What is a computer network?",
+    "options": [
+      {
+        "text": "a single keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "a standalone battery",
+        "is_answer": false
+      },
+      {
+        "text": "a type of monitor",
+        "is_answer": false
+      },
+      {
+        "text": "connected devices that communicate",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz review: What is the correct answer to: What is a strong password generally characterized by?",
+    "options": [
+      {
+        "text": "a common word",
+        "is_answer": false
+      },
+      {
+        "text": "length and a mix of varied characters",
+        "is_answer": true
+      },
+      {
+        "text": "only the user's name",
+        "is_answer": false
+      },
+      {
+        "text": "four repeated digits",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Understanding check: Choose the right option for: What does CPU stand for?",
+    "options": [
+      {
+        "text": "Computer Primary Utility",
+        "is_answer": false
+      },
+      {
+        "text": "Central Program User",
+        "is_answer": false
+      },
+      {
+        "text": "Control Processing User",
+        "is_answer": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fundamentals check: Choose the right option for: Which device is mainly used to point and click?",
+    "options": [
+      {
+        "text": "speaker",
+        "is_answer": false
+      },
+      {
+        "text": "mouse",
+        "is_answer": true
+      },
+      {
+        "text": "monitor",
+        "is_answer": false
+      },
+      {
+        "text": "printer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Subject check: Choose the right option for: What is the main purpose of an operating system?",
+    "options": [
+      {
+        "text": "print every document",
+        "is_answer": false
+      },
+      {
+        "text": "increase screen size",
+        "is_answer": false
+      },
+      {
+        "text": "replace the keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "manage computer resources and provide services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Focus question: Choose the right option for: What does URL identify?",
+    "options": [
+      {
+        "text": "a keyboard layout",
+        "is_answer": false
+      },
+      {
+        "text": "a web resource address",
+        "is_answer": true
+      },
+      {
+        "text": "a computer's battery",
+        "is_answer": false
+      },
+      {
+        "text": "a printer cartridge",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning review: Choose the right option for: Which storage keeps data when power is off?",
+    "options": [
+      {
+        "text": "RAM",
+        "is_answer": false
+      },
+      {
+        "text": "CPU cache only",
+        "is_answer": false
+      },
+      {
+        "text": "register",
+        "is_answer": false
+      },
+      {
+        "text": "SSD",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Test item: Choose the right option for: What does HTML mainly describe?",
+    "options": [
+      {
+        "text": "processor speed",
+        "is_answer": false
+      },
+      {
+        "text": "the structure of web pages",
+        "is_answer": true
+      },
+      {
+        "text": "database encryption",
+        "is_answer": false
+      },
+      {
+        "text": "audio compression",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Revision check: Choose the right option for: What is a programming variable?",
+    "options": [
+      {
+        "text": "a physical cable",
+        "is_answer": false
+      },
+      {
+        "text": "a monitor type",
+        "is_answer": false
+      },
+      {
+        "text": "a network tower",
+        "is_answer": false
+      },
+      {
+        "text": "a named storage location for a value",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Skill check: Choose the right option for: What is AI commonly used for?",
+    "options": [
+      {
+        "text": "only charging devices",
+        "is_answer": false
+      },
+      {
+        "text": "performing tasks that can involve learning or reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "only printing pages",
+        "is_answer": false
+      },
+      {
+        "text": "only storing files",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Mastery check: Choose the right option for: What is a computer network?",
+    "options": [
+      {
+        "text": "a single keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "a standalone battery",
+        "is_answer": false
+      },
+      {
+        "text": "a type of monitor",
+        "is_answer": false
+      },
+      {
+        "text": "connected devices that communicate",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Key idea check: Choose the right option for: What is a strong password generally characterized by?",
+    "options": [
+      {
+        "text": "a common word",
+        "is_answer": false
+      },
+      {
+        "text": "length and a mix of varied characters",
+        "is_answer": true
+      },
+      {
+        "text": "only the user's name",
+        "is_answer": false
+      },
+      {
+        "text": "four repeated digits",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Short quiz: Which answer is correct for: What does CPU stand for?",
+    "options": [
+      {
+        "text": "Computer Primary Utility",
+        "is_answer": false
+      },
+      {
+        "text": "Central Program User",
+        "is_answer": false
+      },
+      {
+        "text": "Control Processing User",
+        "is_answer": false
+      },
+      {
+        "text": "Central Processing Unit",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Prep question: Which answer is correct for: Which device is mainly used to point and click?",
+    "options": [
+      {
+        "text": "speaker",
+        "is_answer": false
+      },
+      {
+        "text": "mouse",
+        "is_answer": true
+      },
+      {
+        "text": "monitor",
+        "is_answer": false
+      },
+      {
+        "text": "printer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Study challenge: Which answer is correct for: What is the main purpose of an operating system?",
+    "options": [
+      {
+        "text": "print every document",
+        "is_answer": false
+      },
+      {
+        "text": "increase screen size",
+        "is_answer": false
+      },
+      {
+        "text": "replace the keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "manage computer resources and provide services",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review test: Which answer is correct for: What does URL identify?",
+    "options": [
+      {
+        "text": "a keyboard layout",
+        "is_answer": false
+      },
+      {
+        "text": "a web resource address",
+        "is_answer": true
+      },
+      {
+        "text": "a computer's battery",
+        "is_answer": false
+      },
+      {
+        "text": "a printer cartridge",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge review: Which answer is correct for: Which storage keeps data when power is off?",
+    "options": [
+      {
+        "text": "RAM",
+        "is_answer": false
+      },
+      {
+        "text": "CPU cache only",
+        "is_answer": false
+      },
+      {
+        "text": "register",
+        "is_answer": false
+      },
+      {
+        "text": "SSD",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept test: Which answer is correct for: What does HTML mainly describe?",
+    "options": [
+      {
+        "text": "processor speed",
+        "is_answer": false
+      },
+      {
+        "text": "the structure of web pages",
+        "is_answer": true
+      },
+      {
+        "text": "database encryption",
+        "is_answer": false
+      },
+      {
+        "text": "audio compression",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice item: Which answer is correct for: What is a programming variable?",
+    "options": [
+      {
+        "text": "a physical cable",
+        "is_answer": false
+      },
+      {
+        "text": "a monitor type",
+        "is_answer": false
+      },
+      {
+        "text": "a network tower",
+        "is_answer": false
+      },
+      {
+        "text": "a named storage location for a value",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Topic challenge: Which answer is correct for: What is AI commonly used for?",
+    "options": [
+      {
+        "text": "only charging devices",
+        "is_answer": false
+      },
+      {
+        "text": "performing tasks that can involve learning or reasoning",
+        "is_answer": true
+      },
+      {
+        "text": "only printing pages",
+        "is_answer": false
+      },
+      {
+        "text": "only storing files",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Final review: Which answer is correct for: What is a computer network?",
+    "options": [
+      {
+        "text": "a single keyboard",
+        "is_answer": false
+      },
+      {
+        "text": "a standalone battery",
+        "is_answer": false
+      },
+      {
+        "text": "a type of monitor",
+        "is_answer": false
+      },
+      {
+        "text": "connected devices that communicate",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Checkpoint: Which answer is correct for: What is a strong password generally characterized by?",
+    "options": [
+      {
+        "text": "a common word",
+        "is_answer": false
+      },
+      {
+        "text": "length and a mix of varied characters",
+        "is_answer": true
+      },
+      {
+        "text": "only the user's name",
+        "is_answer": false
+      },
+      {
+        "text": "four repeated digits",
+        "is_answer": false
+      }
+    ]
   }
 ]
