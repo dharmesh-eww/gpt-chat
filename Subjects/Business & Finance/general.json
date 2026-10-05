@@ -1048,5 +1048,1055 @@
         "is_answer": true
       }
     ]
+  },
+  {
+    "question": "Quick review: What is revenue?",
+    "options": [
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Money earned from sales or operations",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Knowledge check: What is profit?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "Revenue minus expenses",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Test yourself: What is a budget?",
+    "options": [
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A plan for income and spending",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Recall check: What is inflation?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A general rise in prices",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice question: What is an asset?",
+    "options": [
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "Something of economic value owned",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz challenge: What is a liability?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "An obligation or debt",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Review item: What is interest?",
+    "options": [
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The cost or return associated with borrowing money",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study check: What is a stock?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of ownership in a company",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Concept check: What is diversification?",
+    "options": [
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "Spreading investments across different assets",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Revision question: What is entrepreneurship?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Starting and managing a business",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Warm-up question: Which answer best describes revenue?",
+    "options": [
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Money earned from sales or operations",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Self-test: Which answer best describes profit?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "Revenue minus expenses",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic check: Which answer best describes a budget?",
+    "options": [
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A plan for income and spending",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fast quiz: Which answer best describes inflation?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A general rise in prices",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning check: Which answer best describes an asset?",
+    "options": [
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "Something of economic value owned",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice check: Which answer best describes a liability?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "An obligation or debt",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Exam-style review: Which answer best describes interest?",
+    "options": [
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The cost or return associated with borrowing money",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Core concept check: Which answer best describes a stock?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of ownership in a company",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Quick quiz: Which answer best describes diversification?",
+    "options": [
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "Spreading investments across different assets",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Memory check: Which answer best describes entrepreneurship?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Starting and managing a business",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Assessment item: What is the correct description of revenue?",
+    "options": [
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Money earned from sales or operations",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Study question: What is the correct description of profit?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "Revenue minus expenses",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Challenge question: What is the correct description of a budget?",
+    "options": [
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A plan for income and spending",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review challenge: What is the correct description of inflation?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A general rise in prices",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge test: What is the correct description of an asset?",
+    "options": [
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "Something of economic value owned",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept review: What is the correct description of a liability?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "An obligation or debt",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Topic review: What is the correct description of interest?",
+    "options": [
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The cost or return associated with borrowing money",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Practice test: What is the correct description of a stock?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of ownership in a company",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Recall question: What is the correct description of diversification?",
+    "options": [
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "Spreading investments across different assets",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Quiz review: What is the correct description of entrepreneurship?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Starting and managing a business",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Understanding check: Choose the best definition for revenue?",
+    "options": [
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Money earned from sales or operations",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Fundamentals check: Choose the best definition for profit?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "Revenue minus expenses",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Subject check: Choose the best definition for a budget?",
+    "options": [
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A plan for income and spending",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Focus question: Choose the best definition for inflation?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A general rise in prices",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Learning review: Choose the best definition for an asset?",
+    "options": [
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "Something of economic value owned",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Test item: Choose the best definition for a liability?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "An obligation or debt",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Revision check: Choose the best definition for interest?",
+    "options": [
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The cost or return associated with borrowing money",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Skill check: Choose the best definition for a stock?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of ownership in a company",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Mastery check: Choose the best definition for diversification?",
+    "options": [
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "Spreading investments across different assets",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Key idea check: Choose the best definition for entrepreneurship?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Starting and managing a business",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Short quiz: Which statement correctly identifies What is revenue?",
+    "options": [
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "Money earned from sales or operations",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Prep question: Which statement correctly identifies What is profit?",
+    "options": [
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "Revenue minus expenses",
+        "is_answer": true
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Study challenge: Which statement correctly identifies What is a budget?",
+    "options": [
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A plan for income and spending",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Review test: Which statement correctly identifies What is inflation?",
+    "options": [
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A general rise in prices",
+        "is_answer": true
+      },
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Knowledge review: Which statement correctly identifies What is an asset?",
+    "options": [
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      },
+      {
+        "text": "Something of economic value owned",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Concept test: Which statement correctly identifies What is a liability?",
+    "options": [
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "An obligation or debt",
+        "is_answer": true
+      },
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "A sport",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Practice item: Which statement correctly identifies What is interest?",
+    "options": [
+      {
+        "text": "A type of vehicle",
+        "is_answer": false
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      },
+      {
+        "text": "The cost or return associated with borrowing money",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Topic challenge: Which statement correctly identifies What is a stock?",
+    "options": [
+      {
+        "text": "A building material",
+        "is_answer": false
+      },
+      {
+        "text": "A unit of ownership in a company",
+        "is_answer": true
+      },
+      {
+        "text": "A geological process",
+        "is_answer": false
+      },
+      {
+        "text": "A musical instrument",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Final review: Which statement correctly identifies What is diversification?",
+    "options": [
+      {
+        "text": "A sport",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      },
+      {
+        "text": "A computer file format",
+        "is_answer": false
+      },
+      {
+        "text": "Spreading investments across different assets",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Checkpoint: Which statement correctly identifies What is entrepreneurship?",
+    "options": [
+      {
+        "text": "A cooking utensil",
+        "is_answer": false
+      },
+      {
+        "text": "Starting and managing a business",
+        "is_answer": true
+      },
+      {
+        "text": "A type of weather",
+        "is_answer": false
+      },
+      {
+        "text": "A mathematical operation",
+        "is_answer": false
+      }
+    ]
   }
 ]
