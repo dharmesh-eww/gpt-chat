@@ -1,0 +1,1073 @@
+[
+  {
+    "question": "What is an ecosystem?",
+    "options": [
+      {
+        "text": "A single species",
+        "is_answer": false
+      },
+      {
+        "text": "A community of organisms interacting with their environment",
+        "is_answer": true
+      },
+      {
+        "text": "Only a forest",
+        "is_answer": false
+      },
+      {
+        "text": "Only a climate",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is biodiversity?",
+    "options": [
+      {
+        "text": "The amount of rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "The variety of life in an area",
+        "is_answer": true
+      },
+      {
+        "text": "The number of rocks",
+        "is_answer": false
+      },
+      {
+        "text": "The speed of wind",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a habitat?",
+    "options": [
+      {
+        "text": "A food chain",
+        "is_answer": false
+      },
+      {
+        "text": "The place where an organism normally lives",
+        "is_answer": true
+      },
+      {
+        "text": "A weather event",
+        "is_answer": false
+      },
+      {
+        "text": "A chemical reaction",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a food chain?",
+    "options": [
+      {
+        "text": "A sequence showing feeding relationships",
+        "is_answer": true
+      },
+      {
+        "text": "A list of habitats",
+        "is_answer": false
+      },
+      {
+        "text": "A weather map",
+        "is_answer": false
+      },
+      {
+        "text": "A recycling method",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What are producers?",
+    "options": [
+      {
+        "text": "Animals that eat plants",
+        "is_answer": false
+      },
+      {
+        "text": "Organisms that make their own food",
+        "is_answer": true
+      },
+      {
+        "text": "Organisms that only decompose waste",
+        "is_answer": false
+      },
+      {
+        "text": "Predators only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What are decomposers?",
+    "options": [
+      {
+        "text": "Organisms that break down dead organic matter",
+        "is_answer": true
+      },
+      {
+        "text": "Animals that produce sunlight",
+        "is_answer": false
+      },
+      {
+        "text": "Plants that hunt animals",
+        "is_answer": false
+      },
+      {
+        "text": "Rocks that absorb water",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is photosynthesis?",
+    "options": [
+      {
+        "text": "The breakdown of rocks",
+        "is_answer": false
+      },
+      {
+        "text": "A process that converts light energy into chemical energy",
+        "is_answer": true
+      },
+      {
+        "text": "The evaporation of water",
+        "is_answer": false
+      },
+      {
+        "text": "The movement of tectonic plates",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which gas is a major contributor to human-caused warming?",
+    "options": [
+      {
+        "text": "Oxygen",
+        "is_answer": false
+      },
+      {
+        "text": "Carbon dioxide",
+        "is_answer": true
+      },
+      {
+        "text": "Helium",
+        "is_answer": false
+      },
+      {
+        "text": "Neon",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is climate change?",
+    "options": [
+      {
+        "text": "A daily weather forecast",
+        "is_answer": false
+      },
+      {
+        "text": "Long-term change in climate patterns",
+        "is_answer": true
+      },
+      {
+        "text": "A single storm",
+        "is_answer": false
+      },
+      {
+        "text": "A change in time zones",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is global warming?",
+    "options": [
+      {
+        "text": "Daily temperature variation",
+        "is_answer": false
+      },
+      {
+        "text": "A long-term increase in Earth's average temperature",
+        "is_answer": true
+      },
+      {
+        "text": "Cooling of the oceans only",
+        "is_answer": false
+      },
+      {
+        "text": "Seasonal rainfall",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is pollution?",
+    "options": [
+      {
+        "text": "Natural plant growth",
+        "is_answer": false
+      },
+      {
+        "text": "The introduction of harmful substances or energy into the environment",
+        "is_answer": true
+      },
+      {
+        "text": "The recycling of materials",
+        "is_answer": false
+      },
+      {
+        "text": "The formation of clouds",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which is a renewable energy source?",
+    "options": [
+      {
+        "text": "Coal",
+        "is_answer": false
+      },
+      {
+        "text": "Oil",
+        "is_answer": false
+      },
+      {
+        "text": "Solar energy",
+        "is_answer": true
+      },
+      {
+        "text": "Natural gas",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which is a nonrenewable fossil fuel?",
+    "options": [
+      {
+        "text": "Wind",
+        "is_answer": false
+      },
+      {
+        "text": "Solar",
+        "is_answer": false
+      },
+      {
+        "text": "Coal",
+        "is_answer": true
+      },
+      {
+        "text": "Tidal energy",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is recycling?",
+    "options": [
+      {
+        "text": "Burning every waste item",
+        "is_answer": false
+      },
+      {
+        "text": "Processing used materials into new products or materials",
+        "is_answer": true
+      },
+      {
+        "text": "Throwing waste into rivers",
+        "is_answer": false
+      },
+      {
+        "text": "Producing more plastic",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is conservation?",
+    "options": [
+      {
+        "text": "Removal of all wildlife",
+        "is_answer": false
+      },
+      {
+        "text": "Protection and responsible management of natural resources",
+        "is_answer": true
+      },
+      {
+        "text": "Conversion of forests to cities",
+        "is_answer": false
+      },
+      {
+        "text": "Increase of pollution",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is deforestation?",
+    "options": [
+      {
+        "text": "The removal of forests on a large scale",
+        "is_answer": true
+      },
+      {
+        "text": "The planting of forests",
+        "is_answer": false
+      },
+      {
+        "text": "The formation of soil",
+        "is_answer": false
+      },
+      {
+        "text": "The cleaning of oceans",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is reforestation?",
+    "options": [
+      {
+        "text": "Removing forests",
+        "is_answer": false
+      },
+      {
+        "text": "Restoring forests by planting or natural regeneration",
+        "is_answer": true
+      },
+      {
+        "text": "Mining minerals",
+        "is_answer": false
+      },
+      {
+        "text": "Building dams",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is desertification?",
+    "options": [
+      {
+        "text": "The formation of glaciers",
+        "is_answer": false
+      },
+      {
+        "text": "Land degradation in dry areas",
+        "is_answer": true
+      },
+      {
+        "text": "Ocean warming only",
+        "is_answer": false
+      },
+      {
+        "text": "Forest growth",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an endangered species?",
+    "options": [
+      {
+        "text": "A species found everywhere",
+        "is_answer": false
+      },
+      {
+        "text": "A species facing a high risk of extinction",
+        "is_answer": true
+      },
+      {
+        "text": "A newly discovered mineral",
+        "is_answer": false
+      },
+      {
+        "text": "A common crop",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is extinction?",
+    "options": [
+      {
+        "text": "Seasonal migration",
+        "is_answer": false
+      },
+      {
+        "text": "The permanent disappearance of a species",
+        "is_answer": true
+      },
+      {
+        "text": "Temporary dormancy",
+        "is_answer": false
+      },
+      {
+        "text": "Population growth",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an invasive species?",
+    "options": [
+      {
+        "text": "Any endangered species",
+        "is_answer": false
+      },
+      {
+        "text": "A non-native species that can harm ecosystems",
+        "is_answer": true
+      },
+      {
+        "text": "A native predator",
+        "is_answer": false
+      },
+      {
+        "text": "A decomposer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a carbon footprint?",
+    "options": [
+      {
+        "text": "The size of a shoe",
+        "is_answer": false
+      },
+      {
+        "text": "The greenhouse-gas emissions associated with an activity or entity",
+        "is_answer": true
+      },
+      {
+        "text": "The amount of oxygen in a room",
+        "is_answer": false
+      },
+      {
+        "text": "The area of a forest",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the greenhouse effect?",
+    "options": [
+      {
+        "text": "Cooling caused by clouds only",
+        "is_answer": false
+      },
+      {
+        "text": "Warming caused when atmospheric gases absorb and re-emit infrared radiation",
+        "is_answer": true
+      },
+      {
+        "text": "Ocean circulation",
+        "is_answer": false
+      },
+      {
+        "text": "Formation of mountains",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the ozone layer?",
+    "options": [
+      {
+        "text": "A layer of soil",
+        "is_answer": false
+      },
+      {
+        "text": "A region of the stratosphere with relatively high ozone concentration",
+        "is_answer": true
+      },
+      {
+        "text": "A deep ocean zone",
+        "is_answer": false
+      },
+      {
+        "text": "A cloud layer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Why is the ozone layer important?",
+    "options": [
+      {
+        "text": "It creates Earth's oceans",
+        "is_answer": false
+      },
+      {
+        "text": "It absorbs much of the Sun's harmful ultraviolet radiation",
+        "is_answer": true
+      },
+      {
+        "text": "It produces all oxygen",
+        "is_answer": false
+      },
+      {
+        "text": "It causes tides",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is acid rain?",
+    "options": [
+      {
+        "text": "Rain mixed with seawater",
+        "is_answer": false
+      },
+      {
+        "text": "Precipitation made more acidic by atmospheric pollutants",
+        "is_answer": true
+      },
+      {
+        "text": "Rain that falls only in deserts",
+        "is_answer": false
+      },
+      {
+        "text": "Rain caused by eclipses",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is eutrophication?",
+    "options": [
+      {
+        "text": "The drying of forests",
+        "is_answer": false
+      },
+      {
+        "text": "Excess nutrients causing ecological changes in aquatic systems",
+        "is_answer": true
+      },
+      {
+        "text": "The formation of mountains",
+        "is_answer": false
+      },
+      {
+        "text": "The freezing of oceans",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a wetland?",
+    "options": [
+      {
+        "text": "A permanent desert",
+        "is_answer": false
+      },
+      {
+        "text": "An area where water covers or saturates soil for significant periods",
+        "is_answer": true
+      },
+      {
+        "text": "A dry grassland",
+        "is_answer": false
+      },
+      {
+        "text": "A volcanic crater only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an aquifer?",
+    "options": [
+      {
+        "text": "A type of cloud",
+        "is_answer": false
+      },
+      {
+        "text": "An underground layer that can store and transmit groundwater",
+        "is_answer": true
+      },
+      {
+        "text": "A forest canopy",
+        "is_answer": false
+      },
+      {
+        "text": "A coral species",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is groundwater?",
+    "options": [
+      {
+        "text": "Water only in oceans",
+        "is_answer": false
+      },
+      {
+        "text": "Water stored beneath Earth's surface",
+        "is_answer": true
+      },
+      {
+        "text": "Water vapor in clouds",
+        "is_answer": false
+      },
+      {
+        "text": "Water in glaciers only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a watershed?",
+    "options": [
+      {
+        "text": "A water-treatment machine",
+        "is_answer": false
+      },
+      {
+        "text": "An area of land draining water to a common outlet",
+        "is_answer": true
+      },
+      {
+        "text": "A deep ocean trench",
+        "is_answer": false
+      },
+      {
+        "text": "A type of rainfall",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a coral reef?",
+    "options": [
+      {
+        "text": "A freshwater forest",
+        "is_answer": false
+      },
+      {
+        "text": "A marine ecosystem built largely by reef-building corals",
+        "is_answer": true
+      },
+      {
+        "text": "A desert formation",
+        "is_answer": false
+      },
+      {
+        "text": "A mountain range",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an ecological niche?",
+    "options": [
+      {
+        "text": "The physical size of a habitat",
+        "is_answer": false
+      },
+      {
+        "text": "The role and position of a species within its ecosystem",
+        "is_answer": true
+      },
+      {
+        "text": "A climate zone only",
+        "is_answer": false
+      },
+      {
+        "text": "A food product",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is carrying capacity?",
+    "options": [
+      {
+        "text": "The weight of an animal",
+        "is_answer": false
+      },
+      {
+        "text": "The maximum population an environment can sustainably support",
+        "is_answer": true
+      },
+      {
+        "text": "The speed of migration",
+        "is_answer": false
+      },
+      {
+        "text": "The area of a continent",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is ecological succession?",
+    "options": [
+      {
+        "text": "The daily movement of animals",
+        "is_answer": false
+      },
+      {
+        "text": "The gradual change in community composition over time",
+        "is_answer": true
+      },
+      {
+        "text": "The recycling of water",
+        "is_answer": false
+      },
+      {
+        "text": "The formation of clouds",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is biomagnification?",
+    "options": [
+      {
+        "text": "The growth of forests",
+        "is_answer": false
+      },
+      {
+        "text": "An increase in concentration of some substances at higher trophic levels",
+        "is_answer": true
+      },
+      {
+        "text": "The decrease of rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "The recycling of nutrients",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a trophic level?",
+    "options": [
+      {
+        "text": "A climate classification",
+        "is_answer": false
+      },
+      {
+        "text": "A position in a food chain or food web",
+        "is_answer": true
+      },
+      {
+        "text": "A soil type",
+        "is_answer": false
+      },
+      {
+        "text": "A water source",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a food web?",
+    "options": [
+      {
+        "text": "A spider's physical web only",
+        "is_answer": false
+      },
+      {
+        "text": "A network of interconnected food chains",
+        "is_answer": true
+      },
+      {
+        "text": "A list of plants",
+        "is_answer": false
+      },
+      {
+        "text": "A climate chart",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an abiotic factor?",
+    "options": [
+      {
+        "text": "A living organism",
+        "is_answer": false
+      },
+      {
+        "text": "A nonliving environmental factor",
+        "is_answer": true
+      },
+      {
+        "text": "A predator",
+        "is_answer": false
+      },
+      {
+        "text": "A decomposer",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a biotic factor?",
+    "options": [
+      {
+        "text": "A rock",
+        "is_answer": false
+      },
+      {
+        "text": "A living component of an ecosystem",
+        "is_answer": true
+      },
+      {
+        "text": "Temperature",
+        "is_answer": false
+      },
+      {
+        "text": "Sunlight",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the water cycle?",
+    "options": [
+      {
+        "text": "The movement of tectonic plates",
+        "is_answer": false
+      },
+      {
+        "text": "The continuous movement of water through Earth's systems",
+        "is_answer": true
+      },
+      {
+        "text": "The carbon exchange only",
+        "is_answer": false
+      },
+      {
+        "text": "The migration of birds",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is evaporation?",
+    "options": [
+      {
+        "text": "Water vapor becoming ice",
+        "is_answer": false
+      },
+      {
+        "text": "The change of liquid water into water vapor",
+        "is_answer": true
+      },
+      {
+        "text": "Rain falling to Earth",
+        "is_answer": false
+      },
+      {
+        "text": "Ice melting only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is condensation?",
+    "options": [
+      {
+        "text": "Liquid becoming gas",
+        "is_answer": false
+      },
+      {
+        "text": "The change of water vapor into liquid water",
+        "is_answer": true
+      },
+      {
+        "text": "Ice becoming rock",
+        "is_answer": false
+      },
+      {
+        "text": "Rain becoming soil",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is precipitation?",
+    "options": [
+      {
+        "text": "Water stored underground",
+        "is_answer": false
+      },
+      {
+        "text": "Water falling from the atmosphere to Earth's surface",
+        "is_answer": true
+      },
+      {
+        "text": "Water evaporating",
+        "is_answer": false
+      },
+      {
+        "text": "Ocean currents",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a natural resource?",
+    "options": [
+      {
+        "text": "A manufactured product",
+        "is_answer": false
+      },
+      {
+        "text": "A material or feature from nature that people can use",
+        "is_answer": true
+      },
+      {
+        "text": "A computer program",
+        "is_answer": false
+      },
+      {
+        "text": "A synthetic chemical only",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is sustainable development?",
+    "options": [
+      {
+        "text": "Using resources as quickly as possible",
+        "is_answer": false
+      },
+      {
+        "text": "Meeting present needs without compromising future generations",
+        "is_answer": true
+      },
+      {
+        "text": "Avoiding all technology",
+        "is_answer": false
+      },
+      {
+        "text": "Stopping all economic activity",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is biodiversity conservation?",
+    "options": [
+      {
+        "text": "Removing native species",
+        "is_answer": false
+      },
+      {
+        "text": "Protecting species, genes, and ecosystems",
+        "is_answer": true
+      },
+      {
+        "text": "Increasing habitat destruction",
+        "is_answer": false
+      },
+      {
+        "text": "Replacing forests with concrete",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is renewable energy?",
+    "options": [
+      {
+        "text": "Energy from finite fossil fuels",
+        "is_answer": false
+      },
+      {
+        "text": "Energy from sources replenished naturally on a human timescale",
+        "is_answer": true
+      },
+      {
+        "text": "Energy stored only in batteries",
+        "is_answer": false
+      },
+      {
+        "text": "Energy produced only by coal",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is an ecological footprint?",
+    "options": [
+      {
+        "text": "A measure of shoe size",
+        "is_answer": false
+      },
+      {
+        "text": "A measure of human demand on biologically productive resources",
+        "is_answer": true
+      },
+      {
+        "text": "A measure of rainfall",
+        "is_answer": false
+      },
+      {
+        "text": "A measure of soil color",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is habitat fragmentation?",
+    "options": [
+      {
+        "text": "The creation of larger forests",
+        "is_answer": false
+      },
+      {
+        "text": "The division of continuous habitat into smaller isolated areas",
+        "is_answer": true
+      },
+      {
+        "text": "The migration of birds",
+        "is_answer": false
+      },
+      {
+        "text": "The growth of coral",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a keystone species?",
+    "options": [
+      {
+        "text": "The most numerous species",
+        "is_answer": false
+      },
+      {
+        "text": "A species with a disproportionately large effect on its ecosystem",
+        "is_answer": true
+      },
+      {
+        "text": "Any invasive species",
+        "is_answer": false
+      },
+      {
+        "text": "Any plant species",
+        "is_answer": false
+      }
+    ]
+  }
+]
