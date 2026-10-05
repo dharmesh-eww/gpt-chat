@@ -2098,5 +2098,8405 @@
         "is_answer": false
       }
     ]
+  },
+  {
+    "question": "A learner is asked: What is 25 + 37? Which option is correct? (Mathematics set 1)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 25 + 37? What is the best answer? (Mathematics set 1)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 25 + 37? Select the correct option. (Mathematics set 1)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 25 + 37? (Mathematics set 1)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is 84 - 29? Which option is correct? (Mathematics set 2)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 84 - 29? What is the best answer? (Mathematics set 2)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 84 - 29? Select the correct option. (Mathematics set 2)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 84 - 29? (Mathematics set 2)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is 12 × 8? Which option is correct? (Mathematics set 3)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 12 × 8? What is the best answer? (Mathematics set 3)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 12 × 8? Select the correct option. (Mathematics set 3)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 12 × 8? (Mathematics set 3)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is 144 ÷ 12? Which option is correct? (Mathematics set 4)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 144 ÷ 12? What is the best answer? (Mathematics set 4)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 144 ÷ 12? Select the correct option. (Mathematics set 4)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 144 ÷ 12? (Mathematics set 4)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is 15% of 200? Which option is correct? (Mathematics set 5)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 15% of 200? What is the best answer? (Mathematics set 5)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 15% of 200? Select the correct option. (Mathematics set 5)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 15% of 200? (Mathematics set 5)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is 3/4 of 80? Which option is correct? (Mathematics set 6)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is 3/4 of 80? What is the best answer? (Mathematics set 6)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is 3/4 of 80? Select the correct option. (Mathematics set 6)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is 3/4 of 80? (Mathematics set 6)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 7)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 7)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 7)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: If x + 7 = 15, what is x? (Mathematics set 7)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 8)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 8)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 8)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the sum of angles in a triangle? (Mathematics set 8)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 9)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 9)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 9)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 9)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 10)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 10)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 10)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the LCM of 6 and 8? (Mathematics set 10)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 25 + 37? Which option is correct? (Mathematics set 11)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 25 + 37? What is the best answer? (Mathematics set 11)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 25 + 37? Select the correct option. (Mathematics set 11)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 25 + 37? (Mathematics set 11)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 84 - 29? Which option is correct? (Mathematics set 12)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 84 - 29? What is the best answer? (Mathematics set 12)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 84 - 29? Select the correct option. (Mathematics set 12)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 84 - 29? (Mathematics set 12)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 12 × 8? Which option is correct? (Mathematics set 13)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 12 × 8? What is the best answer? (Mathematics set 13)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 12 × 8? Select the correct option. (Mathematics set 13)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 12 × 8? (Mathematics set 13)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 144 ÷ 12? Which option is correct? (Mathematics set 14)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 144 ÷ 12? What is the best answer? (Mathematics set 14)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 144 ÷ 12? Select the correct option. (Mathematics set 14)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 144 ÷ 12? (Mathematics set 14)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 15% of 200? Which option is correct? (Mathematics set 15)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 15% of 200? What is the best answer? (Mathematics set 15)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 15% of 200? Select the correct option. (Mathematics set 15)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 15% of 200? (Mathematics set 15)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is 3/4 of 80? Which option is correct? (Mathematics set 16)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is 3/4 of 80? What is the best answer? (Mathematics set 16)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is 3/4 of 80? Select the correct option. (Mathematics set 16)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is 3/4 of 80? (Mathematics set 16)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 17)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 17)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 17)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: If x + 7 = 15, what is x? (Mathematics set 17)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 18)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 18)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 18)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is the sum of angles in a triangle? (Mathematics set 18)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 19)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 19)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 19)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 19)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Select the correct answer: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 20)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Select the correct answer: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 20)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Select the correct answer: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 20)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Select the correct answer: What is the LCM of 6 and 8? (Mathematics set 20)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 25 + 37? Which option is correct? (Mathematics set 21)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 25 + 37? What is the best answer? (Mathematics set 21)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 25 + 37? Select the correct option. (Mathematics set 21)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 25 + 37? (Mathematics set 21)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 84 - 29? Which option is correct? (Mathematics set 22)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 84 - 29? What is the best answer? (Mathematics set 22)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 84 - 29? Select the correct option. (Mathematics set 22)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 84 - 29? (Mathematics set 22)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 12 × 8? Which option is correct? (Mathematics set 23)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 12 × 8? What is the best answer? (Mathematics set 23)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 12 × 8? Select the correct option. (Mathematics set 23)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 12 × 8? (Mathematics set 23)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 144 ÷ 12? Which option is correct? (Mathematics set 24)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 144 ÷ 12? What is the best answer? (Mathematics set 24)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 144 ÷ 12? Select the correct option. (Mathematics set 24)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 144 ÷ 12? (Mathematics set 24)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 15% of 200? Which option is correct? (Mathematics set 25)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 15% of 200? What is the best answer? (Mathematics set 25)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 15% of 200? Select the correct option. (Mathematics set 25)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 15% of 200? (Mathematics set 25)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is 3/4 of 80? Which option is correct? (Mathematics set 26)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is 3/4 of 80? What is the best answer? (Mathematics set 26)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is 3/4 of 80? Select the correct option. (Mathematics set 26)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is 3/4 of 80? (Mathematics set 26)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 27)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 27)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 27)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: If x + 7 = 15, what is x? (Mathematics set 27)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 28)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 28)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 28)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is the sum of angles in a triangle? (Mathematics set 28)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 29)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 29)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 29)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 29)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: What is the correct answer to: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 30)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: What is the correct answer to: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 30)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: What is the correct answer to: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 30)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: What is the correct answer to: What is the LCM of 6 and 8? (Mathematics set 30)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 25 + 37? Which option is correct? (Mathematics set 31)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 25 + 37? What is the best answer? (Mathematics set 31)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 25 + 37? Select the correct option. (Mathematics set 31)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 25 + 37? (Mathematics set 31)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 84 - 29? Which option is correct? (Mathematics set 32)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 84 - 29? What is the best answer? (Mathematics set 32)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 84 - 29? Select the correct option. (Mathematics set 32)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 84 - 29? (Mathematics set 32)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 12 × 8? Which option is correct? (Mathematics set 33)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 12 × 8? What is the best answer? (Mathematics set 33)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 12 × 8? Select the correct option. (Mathematics set 33)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 12 × 8? (Mathematics set 33)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 144 ÷ 12? Which option is correct? (Mathematics set 34)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 144 ÷ 12? What is the best answer? (Mathematics set 34)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 144 ÷ 12? Select the correct option. (Mathematics set 34)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 144 ÷ 12? (Mathematics set 34)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 15% of 200? Which option is correct? (Mathematics set 35)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 15% of 200? What is the best answer? (Mathematics set 35)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 15% of 200? Select the correct option. (Mathematics set 35)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 15% of 200? (Mathematics set 35)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is 3/4 of 80? Which option is correct? (Mathematics set 36)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is 3/4 of 80? What is the best answer? (Mathematics set 36)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is 3/4 of 80? Select the correct option. (Mathematics set 36)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is 3/4 of 80? (Mathematics set 36)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 37)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 37)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 37)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: If x + 7 = 15, what is x? (Mathematics set 37)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 38)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 38)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 38)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is the sum of angles in a triangle? (Mathematics set 38)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 39)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 39)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 39)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 39)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Choose the right option for: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 40)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Choose the right option for: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 40)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Choose the right option for: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 40)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Choose the right option for: What is the LCM of 6 and 8? (Mathematics set 40)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 25 + 37? Which option is correct? (Mathematics set 41)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 25 + 37? What is the best answer? (Mathematics set 41)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 25 + 37? Select the correct option. (Mathematics set 41)",
+    "options": [
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 25 + 37? (Mathematics set 41)",
+    "options": [
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 84 - 29? Which option is correct? (Mathematics set 42)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 84 - 29? What is the best answer? (Mathematics set 42)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 84 - 29? Select the correct option. (Mathematics set 42)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 84 - 29? (Mathematics set 42)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 12 × 8? Which option is correct? (Mathematics set 43)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 12 × 8? What is the best answer? (Mathematics set 43)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 12 × 8? Select the correct option. (Mathematics set 43)",
+    "options": [
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 12 × 8? (Mathematics set 43)",
+    "options": [
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 144 ÷ 12? Which option is correct? (Mathematics set 44)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 144 ÷ 12? What is the best answer? (Mathematics set 44)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 144 ÷ 12? Select the correct option. (Mathematics set 44)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 144 ÷ 12? (Mathematics set 44)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 15% of 200? Which option is correct? (Mathematics set 45)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 15% of 200? What is the best answer? (Mathematics set 45)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 15% of 200? Select the correct option. (Mathematics set 45)",
+    "options": [
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 15% of 200? (Mathematics set 45)",
+    "options": [
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is 3/4 of 80? Which option is correct? (Mathematics set 46)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is 3/4 of 80? What is the best answer? (Mathematics set 46)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is 3/4 of 80? Select the correct option. (Mathematics set 46)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is 3/4 of 80? (Mathematics set 46)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 47)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 47)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 47)",
+    "options": [
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: If x + 7 = 15, what is x? (Mathematics set 47)",
+    "options": [
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 48)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 48)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 48)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is the sum of angles in a triangle? (Mathematics set 48)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 49)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 49)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 49)",
+    "options": [
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 49)",
+    "options": [
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Which answer is correct for: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 50)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Which answer is correct for: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 50)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Which answer is correct for: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 50)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Which answer is correct for: What is the LCM of 6 and 8? (Mathematics set 50)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Quick review: Which option correctly answers: What is 25 + 37? Which option is correct? (Mathematics set 51)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Quick review: Which option correctly answers: What is 25 + 37? What is the best answer? (Mathematics set 51)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Quick review: Which option correctly answers: What is 25 + 37? Select the correct option. (Mathematics set 51)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Quick review: Which option correctly answers: What is 25 + 37? (Mathematics set 51)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Knowledge check: Which option correctly answers: What is 84 - 29? Which option is correct? (Mathematics set 52)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Knowledge check: Which option correctly answers: What is 84 - 29? What is the best answer? (Mathematics set 52)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Knowledge check: Which option correctly answers: What is 84 - 29? Select the correct option. (Mathematics set 52)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Knowledge check: Which option correctly answers: What is 84 - 29? (Mathematics set 52)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Test yourself: Which option correctly answers: What is 12 × 8? Which option is correct? (Mathematics set 53)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Test yourself: Which option correctly answers: What is 12 × 8? What is the best answer? (Mathematics set 53)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Test yourself: Which option correctly answers: What is 12 × 8? Select the correct option. (Mathematics set 53)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Test yourself: Which option correctly answers: What is 12 × 8? (Mathematics set 53)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Recall check: Which option correctly answers: What is 144 ÷ 12? Which option is correct? (Mathematics set 54)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Recall check: Which option correctly answers: What is 144 ÷ 12? What is the best answer? (Mathematics set 54)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Recall check: Which option correctly answers: What is 144 ÷ 12? Select the correct option. (Mathematics set 54)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Recall check: Which option correctly answers: What is 144 ÷ 12? (Mathematics set 54)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Practice question: Which option correctly answers: What is 15% of 200? Which option is correct? (Mathematics set 55)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Practice question: Which option correctly answers: What is 15% of 200? What is the best answer? (Mathematics set 55)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Practice question: Which option correctly answers: What is 15% of 200? Select the correct option. (Mathematics set 55)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Practice question: Which option correctly answers: What is 15% of 200? (Mathematics set 55)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Quiz challenge: Which option correctly answers: What is 3/4 of 80? Which option is correct? (Mathematics set 56)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Quiz challenge: Which option correctly answers: What is 3/4 of 80? What is the best answer? (Mathematics set 56)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Quiz challenge: Which option correctly answers: What is 3/4 of 80? Select the correct option. (Mathematics set 56)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Quiz challenge: Which option correctly answers: What is 3/4 of 80? (Mathematics set 56)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Review item: Which option correctly answers: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 57)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Review item: Which option correctly answers: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 57)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Review item: Which option correctly answers: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 57)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Review item: Which option correctly answers: If x + 7 = 15, what is x? (Mathematics set 57)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Study check: Which option correctly answers: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 58)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Study check: Which option correctly answers: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 58)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Study check: Which option correctly answers: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 58)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Study check: Which option correctly answers: What is the sum of angles in a triangle? (Mathematics set 58)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Concept check: Which option correctly answers: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 59)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Concept check: Which option correctly answers: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 59)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Concept check: Which option correctly answers: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 59)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Concept check: Which option correctly answers: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 59)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Revision question: Which option correctly answers: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 60)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Revision question: Which option correctly answers: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 60)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Revision question: Which option correctly answers: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 60)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Revision question: Which option correctly answers: What is the LCM of 6 and 8? (Mathematics set 60)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Warm-up question: Select the correct answer: What is 25 + 37? Which option is correct? (Mathematics set 61)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Warm-up question: Select the correct answer: What is 25 + 37? What is the best answer? (Mathematics set 61)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Warm-up question: Select the correct answer: What is 25 + 37? Select the correct option. (Mathematics set 61)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Warm-up question: Select the correct answer: What is 25 + 37? (Mathematics set 61)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Self-test: Select the correct answer: What is 84 - 29? Which option is correct? (Mathematics set 62)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Self-test: Select the correct answer: What is 84 - 29? What is the best answer? (Mathematics set 62)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Self-test: Select the correct answer: What is 84 - 29? Select the correct option. (Mathematics set 62)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Self-test: Select the correct answer: What is 84 - 29? (Mathematics set 62)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Topic check: Select the correct answer: What is 12 × 8? Which option is correct? (Mathematics set 63)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Topic check: Select the correct answer: What is 12 × 8? What is the best answer? (Mathematics set 63)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Topic check: Select the correct answer: What is 12 × 8? Select the correct option. (Mathematics set 63)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Topic check: Select the correct answer: What is 12 × 8? (Mathematics set 63)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Fast quiz: Select the correct answer: What is 144 ÷ 12? Which option is correct? (Mathematics set 64)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Fast quiz: Select the correct answer: What is 144 ÷ 12? What is the best answer? (Mathematics set 64)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Fast quiz: Select the correct answer: What is 144 ÷ 12? Select the correct option. (Mathematics set 64)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Fast quiz: Select the correct answer: What is 144 ÷ 12? (Mathematics set 64)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Learning check: Select the correct answer: What is 15% of 200? Which option is correct? (Mathematics set 65)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Learning check: Select the correct answer: What is 15% of 200? What is the best answer? (Mathematics set 65)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Learning check: Select the correct answer: What is 15% of 200? Select the correct option. (Mathematics set 65)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Learning check: Select the correct answer: What is 15% of 200? (Mathematics set 65)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Practice check: Select the correct answer: What is 3/4 of 80? Which option is correct? (Mathematics set 66)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Practice check: Select the correct answer: What is 3/4 of 80? What is the best answer? (Mathematics set 66)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Practice check: Select the correct answer: What is 3/4 of 80? Select the correct option. (Mathematics set 66)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Practice check: Select the correct answer: What is 3/4 of 80? (Mathematics set 66)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Exam-style review: Select the correct answer: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 67)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Exam-style review: Select the correct answer: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 67)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Exam-style review: Select the correct answer: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 67)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Exam-style review: Select the correct answer: If x + 7 = 15, what is x? (Mathematics set 67)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Core concept check: Select the correct answer: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 68)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Core concept check: Select the correct answer: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 68)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Core concept check: Select the correct answer: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 68)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Core concept check: Select the correct answer: What is the sum of angles in a triangle? (Mathematics set 68)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Quick quiz: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 69)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Quick quiz: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 69)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Quick quiz: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 69)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Quick quiz: Select the correct answer: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 69)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Memory check: Select the correct answer: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 70)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Memory check: Select the correct answer: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 70)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Memory check: Select the correct answer: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 70)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Memory check: Select the correct answer: What is the LCM of 6 and 8? (Mathematics set 70)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Assessment item: What is the correct answer to: What is 25 + 37? Which option is correct? (Mathematics set 71)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Assessment item: What is the correct answer to: What is 25 + 37? What is the best answer? (Mathematics set 71)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Assessment item: What is the correct answer to: What is 25 + 37? Select the correct option. (Mathematics set 71)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Assessment item: What is the correct answer to: What is 25 + 37? (Mathematics set 71)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Study question: What is the correct answer to: What is 84 - 29? Which option is correct? (Mathematics set 72)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Study question: What is the correct answer to: What is 84 - 29? What is the best answer? (Mathematics set 72)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Study question: What is the correct answer to: What is 84 - 29? Select the correct option. (Mathematics set 72)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Study question: What is the correct answer to: What is 84 - 29? (Mathematics set 72)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Challenge question: What is the correct answer to: What is 12 × 8? Which option is correct? (Mathematics set 73)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Challenge question: What is the correct answer to: What is 12 × 8? What is the best answer? (Mathematics set 73)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Challenge question: What is the correct answer to: What is 12 × 8? Select the correct option. (Mathematics set 73)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Challenge question: What is the correct answer to: What is 12 × 8? (Mathematics set 73)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Review challenge: What is the correct answer to: What is 144 ÷ 12? Which option is correct? (Mathematics set 74)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Review challenge: What is the correct answer to: What is 144 ÷ 12? What is the best answer? (Mathematics set 74)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Review challenge: What is the correct answer to: What is 144 ÷ 12? Select the correct option. (Mathematics set 74)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Review challenge: What is the correct answer to: What is 144 ÷ 12? (Mathematics set 74)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Knowledge test: What is the correct answer to: What is 15% of 200? Which option is correct? (Mathematics set 75)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Knowledge test: What is the correct answer to: What is 15% of 200? What is the best answer? (Mathematics set 75)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Knowledge test: What is the correct answer to: What is 15% of 200? Select the correct option. (Mathematics set 75)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Knowledge test: What is the correct answer to: What is 15% of 200? (Mathematics set 75)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Concept review: What is the correct answer to: What is 3/4 of 80? Which option is correct? (Mathematics set 76)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Concept review: What is the correct answer to: What is 3/4 of 80? What is the best answer? (Mathematics set 76)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Concept review: What is the correct answer to: What is 3/4 of 80? Select the correct option. (Mathematics set 76)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Concept review: What is the correct answer to: What is 3/4 of 80? (Mathematics set 76)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Topic review: What is the correct answer to: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 77)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Topic review: What is the correct answer to: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 77)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Topic review: What is the correct answer to: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 77)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Topic review: What is the correct answer to: If x + 7 = 15, what is x? (Mathematics set 77)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Practice test: What is the correct answer to: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 78)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Practice test: What is the correct answer to: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 78)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Practice test: What is the correct answer to: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 78)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Practice test: What is the correct answer to: What is the sum of angles in a triangle? (Mathematics set 78)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Recall question: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 79)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Recall question: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 79)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Recall question: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 79)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Recall question: What is the correct answer to: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 79)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Quiz review: What is the correct answer to: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 80)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Quiz review: What is the correct answer to: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 80)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Quiz review: What is the correct answer to: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 80)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Quiz review: What is the correct answer to: What is the LCM of 6 and 8? (Mathematics set 80)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Understanding check: Choose the right option for: What is 25 + 37? Which option is correct? (Mathematics set 81)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Understanding check: Choose the right option for: What is 25 + 37? What is the best answer? (Mathematics set 81)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Understanding check: Choose the right option for: What is 25 + 37? Select the correct option. (Mathematics set 81)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Understanding check: Choose the right option for: What is 25 + 37? (Mathematics set 81)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Fundamentals check: Choose the right option for: What is 84 - 29? Which option is correct? (Mathematics set 82)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Fundamentals check: Choose the right option for: What is 84 - 29? What is the best answer? (Mathematics set 82)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Fundamentals check: Choose the right option for: What is 84 - 29? Select the correct option. (Mathematics set 82)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Fundamentals check: Choose the right option for: What is 84 - 29? (Mathematics set 82)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Subject check: Choose the right option for: What is 12 × 8? Which option is correct? (Mathematics set 83)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Subject check: Choose the right option for: What is 12 × 8? What is the best answer? (Mathematics set 83)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Subject check: Choose the right option for: What is 12 × 8? Select the correct option. (Mathematics set 83)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Subject check: Choose the right option for: What is 12 × 8? (Mathematics set 83)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Focus question: Choose the right option for: What is 144 ÷ 12? Which option is correct? (Mathematics set 84)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Focus question: Choose the right option for: What is 144 ÷ 12? What is the best answer? (Mathematics set 84)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Focus question: Choose the right option for: What is 144 ÷ 12? Select the correct option. (Mathematics set 84)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Focus question: Choose the right option for: What is 144 ÷ 12? (Mathematics set 84)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Learning review: Choose the right option for: What is 15% of 200? Which option is correct? (Mathematics set 85)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Learning review: Choose the right option for: What is 15% of 200? What is the best answer? (Mathematics set 85)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Learning review: Choose the right option for: What is 15% of 200? Select the correct option. (Mathematics set 85)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Learning review: Choose the right option for: What is 15% of 200? (Mathematics set 85)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Test item: Choose the right option for: What is 3/4 of 80? Which option is correct? (Mathematics set 86)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Test item: Choose the right option for: What is 3/4 of 80? What is the best answer? (Mathematics set 86)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Test item: Choose the right option for: What is 3/4 of 80? Select the correct option. (Mathematics set 86)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Test item: Choose the right option for: What is 3/4 of 80? (Mathematics set 86)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Revision check: Choose the right option for: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 87)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Revision check: Choose the right option for: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 87)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Revision check: Choose the right option for: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 87)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Revision check: Choose the right option for: If x + 7 = 15, what is x? (Mathematics set 87)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Skill check: Choose the right option for: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 88)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Skill check: Choose the right option for: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 88)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Skill check: Choose the right option for: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 88)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Skill check: Choose the right option for: What is the sum of angles in a triangle? (Mathematics set 88)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Mastery check: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 89)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Mastery check: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 89)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Mastery check: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 89)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Mastery check: Choose the right option for: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 89)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Key idea check: Choose the right option for: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 90)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Key idea check: Choose the right option for: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 90)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Key idea check: Choose the right option for: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 90)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Key idea check: Choose the right option for: What is the LCM of 6 and 8? (Mathematics set 90)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Short quiz: Which answer is correct for: What is 25 + 37? Which option is correct? (Mathematics set 91)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Short quiz: Which answer is correct for: What is 25 + 37? What is the best answer? (Mathematics set 91)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Short quiz: Which answer is correct for: What is 25 + 37? Select the correct option. (Mathematics set 91)",
+    "options": [
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      },
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Short quiz: Which answer is correct for: What is 25 + 37? (Mathematics set 91)",
+    "options": [
+      {
+        "text": "72",
+        "is_answer": false
+      },
+      {
+        "text": "62",
+        "is_answer": true
+      },
+      {
+        "text": "52",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Prep question: Which answer is correct for: What is 84 - 29? Which option is correct? (Mathematics set 92)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Prep question: Which answer is correct for: What is 84 - 29? What is the best answer? (Mathematics set 92)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Prep question: Which answer is correct for: What is 84 - 29? Select the correct option. (Mathematics set 92)",
+    "options": [
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      },
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Prep question: Which answer is correct for: What is 84 - 29? (Mathematics set 92)",
+    "options": [
+      {
+        "text": "45",
+        "is_answer": false
+      },
+      {
+        "text": "65",
+        "is_answer": false
+      },
+      {
+        "text": "53",
+        "is_answer": false
+      },
+      {
+        "text": "55",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Study challenge: Which answer is correct for: What is 12 × 8? Which option is correct? (Mathematics set 93)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Study challenge: Which answer is correct for: What is 12 × 8? What is the best answer? (Mathematics set 93)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Study challenge: Which answer is correct for: What is 12 × 8? Select the correct option. (Mathematics set 93)",
+    "options": [
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      },
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Study challenge: Which answer is correct for: What is 12 × 8? (Mathematics set 93)",
+    "options": [
+      {
+        "text": "108",
+        "is_answer": false
+      },
+      {
+        "text": "96",
+        "is_answer": true
+      },
+      {
+        "text": "86",
+        "is_answer": false
+      },
+      {
+        "text": "88",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Review test: Which answer is correct for: What is 144 ÷ 12? Which option is correct? (Mathematics set 94)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Review test: Which answer is correct for: What is 144 ÷ 12? What is the best answer? (Mathematics set 94)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Review test: Which answer is correct for: What is 144 ÷ 12? Select the correct option. (Mathematics set 94)",
+    "options": [
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      },
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Review test: Which answer is correct for: What is 144 ÷ 12? (Mathematics set 94)",
+    "options": [
+      {
+        "text": "10",
+        "is_answer": false
+      },
+      {
+        "text": "14",
+        "is_answer": false
+      },
+      {
+        "text": "16",
+        "is_answer": false
+      },
+      {
+        "text": "12",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Knowledge review: Which answer is correct for: What is 15% of 200? Which option is correct? (Mathematics set 95)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Knowledge review: Which answer is correct for: What is 15% of 200? What is the best answer? (Mathematics set 95)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Knowledge review: Which answer is correct for: What is 15% of 200? Select the correct option. (Mathematics set 95)",
+    "options": [
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      },
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Knowledge review: Which answer is correct for: What is 15% of 200? (Mathematics set 95)",
+    "options": [
+      {
+        "text": "35",
+        "is_answer": false
+      },
+      {
+        "text": "30",
+        "is_answer": true
+      },
+      {
+        "text": "20",
+        "is_answer": false
+      },
+      {
+        "text": "25",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Concept test: Which answer is correct for: What is 3/4 of 80? Which option is correct? (Mathematics set 96)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Concept test: Which answer is correct for: What is 3/4 of 80? What is the best answer? (Mathematics set 96)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Concept test: Which answer is correct for: What is 3/4 of 80? Select the correct option. (Mathematics set 96)",
+    "options": [
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      },
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Concept test: Which answer is correct for: What is 3/4 of 80? (Mathematics set 96)",
+    "options": [
+      {
+        "text": "40",
+        "is_answer": false
+      },
+      {
+        "text": "50",
+        "is_answer": false
+      },
+      {
+        "text": "70",
+        "is_answer": false
+      },
+      {
+        "text": "60",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Practice item: Which answer is correct for: If x + 7 = 15, what is x? Which option is correct? (Mathematics set 97)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Practice item: Which answer is correct for: If x + 7 = 15, what is x? What is the best answer? (Mathematics set 97)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Practice item: Which answer is correct for: If x + 7 = 15, what is x? Select the correct option. (Mathematics set 97)",
+    "options": [
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      },
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Practice item: Which answer is correct for: If x + 7 = 15, what is x? (Mathematics set 97)",
+    "options": [
+      {
+        "text": "9",
+        "is_answer": false
+      },
+      {
+        "text": "8",
+        "is_answer": true
+      },
+      {
+        "text": "6",
+        "is_answer": false
+      },
+      {
+        "text": "7",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Topic challenge: Which answer is correct for: What is the sum of angles in a triangle? Which option is correct? (Mathematics set 98)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Topic challenge: Which answer is correct for: What is the sum of angles in a triangle? What is the best answer? (Mathematics set 98)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Topic challenge: Which answer is correct for: What is the sum of angles in a triangle? Select the correct option. (Mathematics set 98)",
+    "options": [
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      },
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Topic challenge: Which answer is correct for: What is the sum of angles in a triangle? (Mathematics set 98)",
+    "options": [
+      {
+        "text": "90°",
+        "is_answer": false
+      },
+      {
+        "text": "270°",
+        "is_answer": false
+      },
+      {
+        "text": "360°",
+        "is_answer": false
+      },
+      {
+        "text": "180°",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Final review: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? Which option is correct? (Mathematics set 99)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Final review: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? What is the best answer? (Mathematics set 99)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Final review: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? Select the correct option. (Mathematics set 99)",
+    "options": [
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Final review: Which answer is correct for: What is the area of a 5 cm × 8 cm rectangle? (Mathematics set 99)",
+    "options": [
+      {
+        "text": "80 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "40 cm²",
+        "is_answer": true
+      },
+      {
+        "text": "13 cm²",
+        "is_answer": false
+      },
+      {
+        "text": "26 cm²",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "A learner is asked: Checkpoint: Which answer is correct for: What is the LCM of 6 and 8? Which option is correct? (Mathematics set 100)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "During a practice quiz, the prompt is: Checkpoint: Which answer is correct for: What is the LCM of 6 and 8? What is the best answer? (Mathematics set 100)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
+  },
+  {
+    "question": "In a knowledge check, a student must answer: Checkpoint: Which answer is correct for: What is the LCM of 6 and 8? Select the correct option. (Mathematics set 100)",
+    "options": [
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      },
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      }
+    ]
+  },
+  {
+    "question": "Which answer should be selected for this question: Checkpoint: Which answer is correct for: What is the LCM of 6 and 8? (Mathematics set 100)",
+    "options": [
+      {
+        "text": "12",
+        "is_answer": false
+      },
+      {
+        "text": "18",
+        "is_answer": false
+      },
+      {
+        "text": "48",
+        "is_answer": false
+      },
+      {
+        "text": "24",
+        "is_answer": true
+      }
+    ]
   }
 ]
