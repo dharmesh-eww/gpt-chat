@@ -246,3 +246,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+# Uses the direct Google Translate endpoint to avoid provider-specific client rate limits.
