@@ -94,18 +94,38 @@ def translate_batch(
     translator: GoogleTranslator,
     strings: list[str],
 ) -> dict[str, str]:
+    # deep-translator's translate_batch performs one HTTP request per item.
+    # Pack many strings into one request instead to avoid rate limiting.
+    markers = [f"###ITEM{i:05d}###" for i in range(len(strings))]
+    combined_parts = []
+    for marker, value in zip(markers, strings):
+        combined_parts.append(marker)
+        combined_parts.append(value)
+    combined = "\n".join(combined_parts)
+
     for attempt in range(MAX_RETRIES):
         try:
-            translated = translator.translate_batch(strings)
-            if (
-                not isinstance(translated, list)
-                or len(translated) != len(strings)
-                or not all(isinstance(x, str) for x in translated)
-            ):
-                raise ValueError("Translator returned an invalid translation batch.")
+            translated = translator.translate(combined)
+            if not isinstance(translated, str):
+                raise ValueError("Translator returned a non-string response.")
+
+            result: dict[str, str] = {}
+            for i, marker in enumerate(markers):
+                start = translated.find(marker)
+                if start < 0:
+                    raise ValueError(f"Missing translation marker: {marker}")
+                value_start = start + len(marker)
+                next_marker = markers[i + 1] if i + 1 < len(markers) else None
+                end = translated.find(next_marker, value_start) if next_marker else len(translated)
+                if end < 0:
+                    raise ValueError(f"Missing next translation marker: {next_marker}")
+                result[strings[i]] = translated[value_start:end].strip()
+
+            if len(result) != len(strings) or any(not value for value in result.values()):
+                raise ValueError("Translator returned an incomplete translation batch.")
 
             time.sleep(REQUEST_DELAY)
-            return dict(zip(strings, translated))
+            return result
         except Exception as exc:
             if attempt == MAX_RETRIES - 1:
                 raise RuntimeError(
@@ -128,15 +148,25 @@ def translate_strings(
 
     translator = GoogleTranslator(source="en", target=LANGUAGES[language])
 
-    for start in range(0, len(pending), BATCH_SIZE):
-        batch = pending[start : start + BATCH_SIZE]
+    start = 0
+    while start < len(pending):
+        batch = []
+        chars = 0
+
+        while start + len(batch) < len(pending) and len(batch) < BATCH_SIZE:
+            candidate = pending[start + len(batch)]
+            # Keep the request comfortably below Google's URL/body limits.
+            candidate_size = len(candidate) + 20
+            if batch and chars + candidate_size > 3500:
+                break
+            batch.append(candidate)
+            chars += candidate_size
+
         result = translate_batch(translator, batch)
         existing.update(result)
         save_cache(cache)
-        print(
-            f"{language}: translated {min(start + len(batch), len(pending))}/"
-            f"{len(pending)}"
-        )
+        start += len(batch)
+        print(f"{language}: translated {start}/{len(pending)}")
 
 
 def english_path(source: Path) -> Path:
