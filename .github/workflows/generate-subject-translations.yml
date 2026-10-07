@@ -16,29 +16,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Skip generated-file commit
-        if: startsWith(github.event.head_commit.message, 'feat: add multilingual subject JSON files')
-        run: echo "Generated translation commit detected; nothing to do."
-
       - name: Set up Python
-        if: ${{ !startsWith(github.event.head_commit.message, 'feat: add multilingual subject JSON files') }}
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        if: ${{ !startsWith(github.event.head_commit.message, 'feat: add multilingual subject JSON files') }}
         run: pip install deep-translator
 
       - name: Generate translations
-        if: ${{ !startsWith(github.event.head_commit.message, 'feat: add multilingual subject JSON files') }}
-        run: python scripts/generate_subject_translations.py
+        run: |
+          if find Subjects -type f -name '*_en.json' | grep -q .; then
+            echo "Localized files already exist; skipping generation."
+            exit 0
+          fi
+          python scripts/generate_subject_translations.py
 
       - name: Commit generated files
-        if: ${{ !startsWith(github.event.head_commit.message, 'feat: add multilingual subject JSON files') }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Subjects .subject_translation_cache.json
-          git diff --cached --quiet || git commit -m "feat: add multilingual subject JSON files"
-          git push
+          if find Subjects -type f -name '*_en.json' | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add Subjects .subject_translation_cache.json
+            git diff --cached --quiet || git commit -m "feat: add multilingual subject JSON files"
+            git push
+          fi
