@@ -3,8 +3,7 @@
 """
 Generate English, Gujarati and Hindi copies of every JSON quiz file under Subjects/.
 
-This version intentionally uses the public Google Translate web endpoint through
-the deep-translator package, so no OpenAI API key is required.
+This version uses the public Google Translate web endpoint directly, so no OpenAI API key is required.
 
 The original JSON files are treated as English source files. Keys, booleans,
 numbers, array/object structure and answer flags are preserved exactly.
@@ -21,7 +20,7 @@ import time
 from pathlib import Path
 from typing import Any
 
-from deep_translator import GoogleTranslator
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 SUBJECTS = ROOT / "Subjects"
@@ -91,7 +90,7 @@ def save_cache(cache: dict[str, dict[str, str]]) -> None:
 
 
 def translate_batch(
-    translator: GoogleTranslator,
+    target_language: str,
     strings: list[str],
 ) -> dict[str, str]:
     # deep-translator's translate_batch performs one HTTP request per item.
@@ -105,9 +104,26 @@ def translate_batch(
 
     for attempt in range(MAX_RETRIES):
         try:
-            translated = translator.translate(combined)
-            if not isinstance(translated, str):
-                raise ValueError("Translator returned a non-string response.")
+            response = requests.get(
+                "https://translate.googleapis.com/translate_a/single",
+                params={
+                    "client": "gtx",
+                    "sl": "en",
+                    "tl": target_language,
+                    "dt": "t",
+                    "q": combined,
+                },
+                timeout=60,
+            )
+            response.raise_for_status()
+            payload = response.json()
+            translated = "".join(
+                part[0]
+                for part in (payload[0] if isinstance(payload, list) else [])
+                if isinstance(part, list) and part and isinstance(part[0], str)
+            )
+            if not translated:
+                raise ValueError("Translator returned an empty response.")
 
             result: dict[str, str] = {}
             for i, marker in enumerate(markers):
@@ -146,7 +162,7 @@ def translate_strings(
 
     print(f"{language}: {len(existing)} cached, {len(pending)} pending")
 
-    translator = GoogleTranslator(source="en", target=LANGUAGES[language])
+    target_language = LANGUAGES[language]
 
     start = 0
     while start < len(pending):
@@ -162,7 +178,7 @@ def translate_strings(
             batch.append(candidate)
             chars += candidate_size
 
-        result = translate_batch(translator, batch)
+        result = translate_batch(target_language, batch)
         existing.update(result)
         save_cache(cache)
         start += len(batch)
