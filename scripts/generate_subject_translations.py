@@ -2,14 +2,8 @@
 """
 Generate English, Gujarati and Hindi copies of every JSON quiz file under Subjects/.
 
-Usage:
-  pip install openai
-  export OPENAI_API_KEY="..."
-  python scripts/generate_subject_translations.py
-
-Optional:
-  OPENAI_MODEL=gpt-6-luna
-  TRANSLATION_BATCH_SIZE=50
+This version intentionally uses the public Google Translate web endpoint through
+the deep-translator package, so no OpenAI API key is required.
 
 The original JSON files are treated as English source files. Keys, booleans,
 numbers, array/object structure and answer flags are preserved exactly.
@@ -26,23 +20,21 @@ import time
 from pathlib import Path
 from typing import Any
 
-from openai import OpenAI
+from deep_translator import GoogleTranslator
 
 ROOT = Path(__file__).resolve().parents[1]
 SUBJECTS = ROOT / "Subjects"
 CACHE_PATH = ROOT / ".subject_translation_cache.json"
 
-MODEL = os.getenv("OPENAI_MODEL", "gpt-6-luna")
-BATCH_SIZE = int(os.getenv("TRANSLATION_BATCH_SIZE", "50"))
+BATCH_SIZE = int(os.getenv("TRANSLATION_BATCH_SIZE", "20"))
 MAX_RETRIES = 5
+REQUEST_DELAY = float(os.getenv("TRANSLATION_REQUEST_DELAY", "0.2"))
 
 LANGUAGES = {
-    "gu": "Gujarati",
-    "hi": "Hindi",
+    "gu": "gu",
+    "hi": "hi",
 }
 
-# These are intentionally not translated. They are quiz answer values that
-# should remain numeric/technical tokens.
 NUMBER_RE = re.compile(r"^[\\s\\d.,%+\\-×÷=<>:()/\\[\\]{}]+$")
 
 
@@ -98,58 +90,25 @@ def save_cache(cache: dict[str, dict[str, str]]) -> None:
 
 
 def translate_batch(
-    client: OpenAI,
+    translator: GoogleTranslator,
     strings: list[str],
-    language: str,
 ) -> dict[str, str]:
-    language_name = LANGUAGES[language]
-
-    numbered = "\\n".join(f"{i + 1}. {json.dumps(s, ensure_ascii=False)}" for i, s in enumerate(strings))
-
-    prompt = f"""
-Translate the following English quiz strings into {language_name}.
-
-Rules:
-1. Return ONLY a valid JSON array of strings.
-2. Return exactly {len(strings)} items, in exactly the same order.
-3. Translate natural-language questions and answer choices accurately.
-4. Preserve numbers, units, mathematical expressions, abbreviations, URLs,
-   punctuation that is meaningful, and proper names when translation is not
-   appropriate.
-5. Do not add explanations, markdown, numbering, or extra text.
-6. Do not change the meaning of a quiz question or its answer.
-7. Use natural, standard {language_name} suitable for a general-knowledge quiz.
-8. Do not translate a person's name, country/city name, team name, product name,
-   scientific symbol, programming keyword, or other proper noun unless there is
-   a standard localized form.
-9. For English terms that are normally used unchanged in the target language,
-   keep the term rather than inventing an unnatural translation.
-
-Strings:
-{numbered}
-""".strip()
-
     for attempt in range(MAX_RETRIES):
         try:
-            response = client.responses.create(
-                model=MODEL,
-                input=prompt,
-            )
-            raw = response.output_text.strip()
-            translated = json.loads(raw)
-
+            translated = translator.translate_batch(strings)
             if (
                 not isinstance(translated, list)
                 or len(translated) != len(strings)
                 or not all(isinstance(x, str) for x in translated)
             ):
-                raise ValueError("Model returned an invalid translation array.")
+                raise ValueError("Translator returned an invalid translation batch.")
 
+            time.sleep(REQUEST_DELAY)
             return dict(zip(strings, translated))
         except Exception as exc:
             if attempt == MAX_RETRIES - 1:
                 raise RuntimeError(
-                    f"Translation failed for {language} after {MAX_RETRIES} attempts: {exc}"
+                    f"Translation failed after {MAX_RETRIES} attempts: {exc}"
                 ) from exc
             time.sleep(2 ** attempt)
 
@@ -157,19 +116,20 @@ Strings:
 
 
 def translate_strings(
-    client: OpenAI,
     strings: set[str],
     language: str,
     cache: dict[str, dict[str, str]],
 ) -> None:
     existing = cache[language]
-    pending = [s for s in strings if s not in existing]
+    pending = [s for s in sorted(strings) if s not in existing]
 
     print(f"{language}: {len(existing)} cached, {len(pending)} pending")
 
+    translator = GoogleTranslator(source="en", target=LANGUAGES[language])
+
     for start in range(0, len(pending), BATCH_SIZE):
         batch = pending[start : start + BATCH_SIZE]
-        result = translate_batch(client, batch, language)
+        result = translate_batch(translator, batch)
         existing.update(result)
         save_cache(cache)
         print(
@@ -191,11 +151,6 @@ def main() -> int:
         print("Subjects directory not found.", file=sys.stderr)
         return 1
 
-    if not os.getenv("OPENAI_API_KEY"):
-        print("OPENAI_API_KEY is required.", file=sys.stderr)
-        return 1
-
-    client = OpenAI()
     cache = load_cache()
 
     sources = sorted(
@@ -220,9 +175,8 @@ def main() -> int:
     print(f"Unique translatable strings: {len(all_strings)}")
 
     for language in LANGUAGES:
-        translate_strings(client, all_strings, language, cache)
+        translate_strings(all_strings, language, cache)
 
-    # English is an exact structural/value copy of the source.
     for source, data in parsed.items():
         save_json(english_path(source), data)
 
@@ -230,7 +184,6 @@ def main() -> int:
             localized = replace_strings(data, cache[language])
             save_json(localized_path(source, language), localized)
 
-    # Validate every generated JSON file.
     generated = []
     for source in sources:
         generated.append(english_path(source))
