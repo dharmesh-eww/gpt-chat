@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Translation generation supports the no-API-key workflow.
 """
 Generate English, Gujarati and Hindi copies of every JSON quiz file under Subjects/.
 
